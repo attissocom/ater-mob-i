@@ -1,0 +1,44 @@
+﻿# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.log
+~$*
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Rapports générés
+reports/*.pptx
+
+# Fichiers de diagnostic et tests temporaires
+test.py
+test_diag.py
+test_geojson.py
+test_resolve.py
+
+# Dossier obsolète
+models_img_Dashboard/
+
+# Notebooks de travail
+atr_mob1_data_cleaning.ipynb

@@ -1,0 +1,4 @@
+dataset_source,niveau,name_normalized,name_canonical,region,prefecture,commune,canton,commentaire
+dataset_source,niveau,name_normalized,name_canonical,region,prefecture,commune,canton,commentaire
+routes_classees,commune,danyi 1,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,Fusion RGPH5 Danyi 1+2
+routes_classees,commune,danyi 2,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,Fusion RGPH5 Danyi 1+2

@@ -1,0 +1,6 @@
+region,population,nb_auto_ecoles,nb_troncons,longueur_routes_km,auto_ecoles_pour_100k_hab,km_routes_pour_1000_hab,km_par_troncon
+maritime,3534991,221,153,636.102,6.252,0.18,4.158
+plateaux,1635946,12,321,1008.43,0.734,0.616,3.142
+savanes,1143520,10,75,529.448,0.874,0.463,7.059
+kara,985512,14,169,733.379,1.421,0.744,4.34
+centrale,795529,12,81,459.126,1.508,0.577,5.668

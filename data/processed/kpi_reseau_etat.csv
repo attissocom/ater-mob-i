@@ -1,0 +1,12 @@
+categorie,revetement,etat,longueur_km,longueur_totale_km,part_pct
+route,revetue,BON,754.17,2198.5099999999998,34.3
+route,revetue,MAUVAIS,562.77,2198.5099999999998,25.6
+route,revetue,MOYEN,431.82,2198.5099999999998,19.64
+route,revetue,TRAVAUX,449.75,2198.5099999999998,20.46
+route,terre,BON,485.69,1929.92,25.17
+route,terre,MAUVAIS,213.15,1929.92,11.04
+route,terre,MOYEN,607.44,1929.92,31.47
+route,terre,TRAVAUX,623.64,1929.92,32.31
+voirie,revetue,BON,33.0,76.52,43.13
+voirie,revetue,MAUVAIS,24.62,76.52,32.17
+voirie,revetue,MOYEN,18.9,76.52,24.7

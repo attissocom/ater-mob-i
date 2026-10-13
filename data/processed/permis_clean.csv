@@ -1,0 +1,97 @@
+annee,categorie_permis,code_permis,valeur,interpolee
+2007,Moto (A),A,205.0,False
+2008,Moto (A),A,198.0,False
+2009,Moto (A),A,398.0,False
+2010,Moto (A),A,206.0,False
+2011,Moto (A),A,157.0,False
+2012,Moto (A),A,129.0,False
+2013,Moto (A),A,206.0,True
+2014,Moto (A),A,283.0,False
+2015,Moto (A),A,104.0,False
+2016,Moto (A),A,387.0,False
+2017,Moto (A),A,312.0,False
+2018,Moto (A),A,406.0,False
+2019,Moto (A),A,2425.0,False
+2020,Moto (A),A,236.0,False
+2021,Moto (A),A,211.0,False
+2022,Moto (A),A,4837.0,False
+2007,Poids lourd (C),C,459.0,False
+2008,Poids lourd (C),C,433.0,False
+2009,Poids lourd (C),C,236.0,False
+2010,Poids lourd (C),C,299.0,False
+2011,Poids lourd (C),C,327.0,False
+2012,Poids lourd (C),C,428.0,False
+2013,Poids lourd (C),C,722.0,True
+2014,Poids lourd (C),C,1016.0,False
+2015,Poids lourd (C),C,308.0,False
+2016,Poids lourd (C),C,1642.0,False
+2017,Poids lourd (C),C,1353.0,False
+2018,Poids lourd (C),C,1015.0,False
+2019,Poids lourd (C),C,898.0,False
+2020,Poids lourd (C),C,763.0,False
+2021,Poids lourd (C),C,1160.0,False
+2022,Poids lourd (C),C,1216.0,False
+2007,Semi-remorque (E),E,32.0,False
+2008,Semi-remorque (E),E,18.0,False
+2009,Semi-remorque (E),E,38.0,False
+2010,Semi-remorque (E),E,35.0,False
+2011,Semi-remorque (E),E,42.0,False
+2012,Semi-remorque (E),E,28.0,False
+2013,Semi-remorque (E),E,51.0,True
+2014,Semi-remorque (E),E,74.0,False
+2015,Semi-remorque (E),E,370.0,False
+2016,Semi-remorque (E),E,2635.0,False
+2017,Semi-remorque (E),E,1514.0,False
+2018,Semi-remorque (E),E,1263.0,False
+2019,Semi-remorque (E),E,1073.0,False
+2020,Semi-remorque (E),E,806.0,False
+2021,Semi-remorque (E),E,1060.0,False
+2022,Semi-remorque (E),E,1119.0,False
+2007,Transport en commun (D),D,87.0,False
+2008,Transport en commun (D),D,86.0,False
+2009,Transport en commun (D),D,45.0,False
+2010,Transport en commun (D),D,83.0,False
+2011,Transport en commun (D),D,71.0,False
+2012,Transport en commun (D),D,77.0,False
+2013,Transport en commun (D),D,139.5,True
+2014,Transport en commun (D),D,202.0,False
+2015,Transport en commun (D),D,90.0,False
+2016,Transport en commun (D),D,292.0,False
+2017,Transport en commun (D),D,337.0,False
+2018,Transport en commun (D),D,297.0,False
+2019,Transport en commun (D),D,299.0,False
+2020,Transport en commun (D),D,230.0,False
+2021,Transport en commun (D),D,389.0,False
+2022,Transport en commun (D),D,410.0,False
+2007,Voiture légère (B),B,6148.0,False
+2008,Voiture légère (B),B,6334.0,False
+2009,Voiture légère (B),B,4771.0,False
+2010,Voiture légère (B),B,4690.0,False
+2011,Voiture légère (B),B,5628.0,False
+2012,Voiture légère (B),B,6307.0,False
+2013,Voiture légère (B),B,9047.0,True
+2014,Voiture légère (B),B,11787.0,False
+2015,Voiture légère (B),B,7193.0,False
+2016,Voiture légère (B),B,23467.0,False
+2017,Voiture légère (B),B,16299.0,False
+2018,Voiture légère (B),B,15855.0,False
+2019,Voiture légère (B),B,16377.0,False
+2020,Voiture légère (B),B,11017.0,False
+2021,Voiture légère (B),B,16857.0,False
+2022,Voiture légère (B),B,16988.0,False
+2007,Voiture spéciale (F),F,0.0,False
+2008,Voiture spéciale (F),F,0.0,False
+2009,Voiture spéciale (F),F,0.0,False
+2010,Voiture spéciale (F),F,0.0,False
+2011,Voiture spéciale (F),F,0.0,False
+2012,Voiture spéciale (F),F,0.0,False
+2013,Voiture spéciale (F),F,0.0,True
+2014,Voiture spéciale (F),F,0.0,False
+2015,Voiture spéciale (F),F,7.0,False
+2016,Voiture spéciale (F),F,28.0,False
+2017,Voiture spéciale (F),F,24.0,False
+2018,Voiture spéciale (F),F,18.0,False
+2019,Voiture spéciale (F),F,26.0,False
+2020,Voiture spéciale (F),F,21.0,False
+2021,Voiture spéciale (F),F,38.0,False
+2022,Voiture spéciale (F),F,28.0,False

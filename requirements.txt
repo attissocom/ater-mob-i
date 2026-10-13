@@ -1,0 +1,11 @@
+streamlit>=1.36.0
+pandas>=2.0
+numpy>=1.24
+rapidfuzz>=3.5
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.5
+pyogrio>=0.7
+streamlit-folium>=0.20
+folium>=0.17
+plotly>=5.20

@@ -1,0 +1,48 @@
+dataset_source,niveau,name_normalized,name_canonical,region,prefecture,commune,canton,commentaire
+auto_ecoles,canton,adetikope,,maritime,agoe nyive,agoe nyive 6,,score=72 | source=Adétikopé
+auto_ecoles,canton,sanguera,,maritime,agoe nyive,agoe nyive 5,,score=72 | source=Sanguera
+auto_ecoles,canton,blitta,,centrale,blitta,blitta 1,,score=70 | source=Blitta
+auto_ecoles,canton,aflao sagbado,,maritime,golfe,golfe 7,,score=70 | source=Aflao-Sagbado
+auto_ecoles,canton,agoe nyive,,maritime,agoe nyive,agoe nyive 1,,score=63 | source=Agoè-Nyivé
+auto_ecoles,canton,togblekope,,maritime,agoe nyive,agoe nyive 4,,score=60 | source=Togblekope
+auto_ecoles,canton,sokode komah,,centrale,tchaoudjo,tchaoudjo 1,,score=58 | source=Sokodè (Komah)
+auto_ecoles,canton,be est,,maritime,golfe,golfe 1,,score=57 | source=Bè-Est
+auto_ecoles,canton,kara,,kara,kozah,kozah 1,,score=50 | source=Commune De Kara
+auto_ecoles,canton,be ouest,,maritime,golfe,golfe 3,,score=42 | source=Bè-Ouest
+auto_ecoles,canton,vakpossito,,maritime,agoe nyive,agoe nyive 3,,score=40 | source=Vakpossito
+auto_ecoles,canton,be centre,,maritime,golfe,golfe 2,,score=30 | source=Bè-Centre
+routes_classees,canton,houdou,,plateaux,ogou,ogou 1,,score=83 | source=Houdou
+routes_classees,canton,assahoun fiagbe,,plateaux,agou,agou 1,,score=82 | source=Assahoun-Fiagbé
+routes_classees,canton,kante,,kara,keran,keran 1,,score=80 | source=Kantè
+routes_classees,canton,assahoun,,maritime,ave,ave 1,,score=76 | source=Assahoun
+routes_classees,canton,wome,,plateaux,kloto,kloto 1,,score=75 | source=Womé
+routes_classees,canton,kpadape,,plateaux,kloto,kloto 1,,score=73 | source=Kpadapé
+routes_classees,canton,sanguera,,maritime,agoe nyive,agoe nyive 5,,score=72 | source=Sanguera
+routes_classees,canton,adetikope,,maritime,agoe nyive,agoe nyive 6,,score=72 | source=Adétikopé
+routes_classees,canton,agome yoh,,plateaux,kloto,kloto 3,,score=71 | source=Agomé-Yoh
+routes_classees,canton,blitta,,centrale,blitta,blitta 1,,score=70 | source=Blitta
+routes_classees,canton,aflao sagbado,,maritime,golfe,golfe 7,,score=70 | source=Aflao-Sagbado
+routes_classees,canton,afagnan gbleta,,maritime,bas mono,bas mono 1,,score=69 | source=Afagnan-Gbléta
+routes_classees,canton,badin cope,,plateaux,est mono,est mono 2,,score=66 | source=Badin-Copé
+routes_classees,canton,imle adiva,,plateaux,amou,amou 1,,score=66 | source=Imlè-Adiva
+routes_classees,canton,kpele akata,,plateaux,kpele,kpele 1,,score=64 | source=Kpélé-Akata
+routes_classees,canton,agoe nyive,,maritime,agoe nyive,agoe nyive 1,,score=63 | source=Agoè-Nyivé
+routes_classees,canton,game seva,,maritime,zio,zio 3,,score=61 | source=Gamé-Sèva
+routes_classees,canton,togblekope,,maritime,agoe nyive,agoe nyive 4,,score=60 | source=Togblekope
+routes_classees,canton,agou nyogbo agbetiko,,plateaux,agou,agou 1,,score=60 | source=Agou-Nyogbo-Agbétiko
+routes_classees,canton,agou nyogbo dzidjole,,plateaux,agou,agou 1,,score=60 | source=Agou-Nyogbo-Dzidjole
+routes_classees,canton,sokode komah,,centrale,tchaoudjo,tchaoudjo 1,,score=58 | source=Sokodè (Komah)
+routes_classees,canton,be est,,maritime,golfe,golfe 1,,score=57 | source=Bè-Est
+routes_classees,canton,amlame ouma,,plateaux,amou,amou 1,,score=54 | source=Amlamé (Ouma)
+routes_classees,canton,kara,,kara,kozah,kozah 1,,score=50 | source=Commune De Kara
+routes_classees,canton,ando,,maritime,ave,ave 1,,score=47 | source=Ando
+routes_classees,canton,agome glozou,,maritime,bas mono,bas mono 2,,score=44 | source=Agome-Glozou
+routes_classees,canton,be ouest,,maritime,golfe,golfe 3,,score=42 | source=Bè-Ouest
+routes_classees,canton,lavie,,plateaux,kloto,kloto 2,,score=41 | source=Lavié
+routes_classees,canton,be centre,,maritime,golfe,golfe 2,,score=30 | source=Bè-Centre
+routes_classees,commune,danyi 2,,plateaux,danyi,,,score=63 | source=Danyi 2
+routes_classees,commune,danyi 1,,plateaux,danyi,,,score=63 | source=Danyi 1
+routes_classees,commune,danyi 1,,plateaux,danyi,,,score=63 | source=Danyi 1
+routes_classees,commune,danyi 1,,plateaux,danyi,,,score=63 | source=Danyi 1
+routes_classees,commune,danyi 2,,plateaux,danyi,,,score=63 | source=Danyi 2
+routes_classees,commune,danyi 2,,plateaux,danyi,,,score=63 | source=Danyi 2

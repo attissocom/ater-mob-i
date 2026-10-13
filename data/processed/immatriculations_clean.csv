@@ -1,0 +1,232 @@
+annee,type_vehicule,valeur,unite,serie
+1990,2 R et Assimilées,1513,Nombre,flux
+1991,2 R et Assimilées,1601,Nombre,flux
+1992,2 R et Assimilées,1641,Nombre,flux
+1993,2 R et Assimilées,982,Nombre,flux
+1994,2 R et Assimilées,1887,Nombre,flux
+1995,2 R et Assimilées,13883,Nombre,flux
+1996,2 R et Assimilées,15383,Nombre,flux
+1997,2 R et Assimilées,14445,Nombre,flux
+1998,2 R et Assimilées,10603,Nombre,flux
+1999,2 R et Assimilées,12917,Nombre,flux
+2000,2 R et Assimilées,10639,Nombre,flux
+2001,2 R et Assimilées,8500,Nombre,flux
+2002,2 R et Assimilées,8632,Nombre,flux
+2003,2 R et Assimilées,12130,Nombre,flux
+2004,2 R et Assimilées,33980,Nombre,flux
+2005,2 R et Assimilées,27791,Nombre,flux
+2006,2 R et Assimilées,35760,Nombre,flux
+2007,2 R et Assimilées,34454,Nombre,flux
+2008,2 R et Assimilées,44409,Nombre,flux
+2009,2 R et Assimilées,36277,Nombre,flux
+2010,2 R et Assimilées,38638,Nombre,flux
+2011,2 R et Assimilées,42283,Nombre,flux
+2012,2 R et Assimilées,43757,Nombre,flux
+2013,2 R et Assimilées,41830,Nombre,flux
+2014,2 R et Assimilées,51134,Nombre,flux
+2015,2 R et Assimilées,65599,Nombre,flux
+2016,2 R et Assimilées,45341,Nombre,flux
+2017,2 R et Assimilées,41187,Nombre,flux
+2018,2 R et Assimilées,43063,Nombre,flux
+2019,2 R et Assimilées,54873,Nombre,flux
+2020,2 R et Assimilées,44850,Nombre,flux
+2021,2 R et Assimilées,65363,Nombre,flux
+2022,2 R et Assimilées,67639,Nombre,flux
+1990,Autocars/Autobus,59,Nombre,flux
+1991,Autocars/Autobus,31,Nombre,flux
+1992,Autocars/Autobus,32,Nombre,flux
+1993,Autocars/Autobus,3,Nombre,flux
+1994,Autocars/Autobus,29,Nombre,flux
+1995,Autocars/Autobus,15,Nombre,flux
+1996,Autocars/Autobus,16,Nombre,flux
+1997,Autocars/Autobus,28,Nombre,flux
+1998,Autocars/Autobus,35,Nombre,flux
+1999,Autocars/Autobus,26,Nombre,flux
+2000,Autocars/Autobus,30,Nombre,flux
+2001,Autocars/Autobus,32,Nombre,flux
+2002,Autocars/Autobus,29,Nombre,flux
+2003,Autocars/Autobus,21,Nombre,flux
+2004,Autocars/Autobus,17,Nombre,flux
+2005,Autocars/Autobus,18,Nombre,flux
+2006,Autocars/Autobus,28,Nombre,flux
+2007,Autocars/Autobus,22,Nombre,flux
+2008,Autocars/Autobus,18,Nombre,flux
+2009,Autocars/Autobus,36,Nombre,flux
+2010,Autocars/Autobus,96,Nombre,flux
+2011,Autocars/Autobus,97,Nombre,flux
+2012,Autocars/Autobus,102,Nombre,flux
+2013,Autocars/Autobus,94,Nombre,flux
+2014,Autocars/Autobus,103,Nombre,flux
+2015,Autocars/Autobus,87,Nombre,flux
+2016,Autocars/Autobus,62,Nombre,flux
+2017,Autocars/Autobus,73,Nombre,flux
+2018,Autocars/Autobus,83,Nombre,flux
+2019,Autocars/Autobus,133,Nombre,flux
+2020,Autocars/Autobus,91,Nombre,flux
+2021,Autocars/Autobus,101,Nombre,flux
+2022,Autocars/Autobus,145,Nombre,flux
+1990,Camionnettes,1106,Nombre,flux
+1991,Camionnettes,1052,Nombre,flux
+1992,Camionnettes,891,Nombre,flux
+1993,Camionnettes,535,Nombre,flux
+1994,Camionnettes,710,Nombre,flux
+1995,Camionnettes,853,Nombre,flux
+1996,Camionnettes,1296,Nombre,flux
+1997,Camionnettes,1850,Nombre,flux
+1998,Camionnettes,1787,Nombre,flux
+1999,Camionnettes,1566,Nombre,flux
+2000,Camionnettes,1456,Nombre,flux
+2001,Camionnettes,1567,Nombre,flux
+2002,Camionnettes,1671,Nombre,flux
+2003,Camionnettes,1359,Nombre,flux
+2004,Camionnettes,1681,Nombre,flux
+2005,Camionnettes,955,Nombre,flux
+2006,Camionnettes,1305,Nombre,flux
+2007,Camionnettes,1267,Nombre,flux
+2008,Camionnettes,1075,Nombre,flux
+2009,Camionnettes,1403,Nombre,flux
+2010,Camionnettes,1542,Nombre,flux
+2011,Camionnettes,2219,Nombre,flux
+2012,Camionnettes,1986,Nombre,flux
+2013,Camionnettes,2311,Nombre,flux
+2014,Camionnettes,2533,Nombre,flux
+2015,Camionnettes,3229,Nombre,flux
+2016,Camionnettes,2923,Nombre,flux
+2017,Camionnettes,3149,Nombre,flux
+2018,Camionnettes,3224,Nombre,flux
+2019,Camionnettes,3682,Nombre,flux
+2020,Camionnettes,4085,Nombre,flux
+2021,Camionnettes,4941,Nombre,flux
+2022,Camionnettes,4626,Nombre,flux
+1990,Camions,195,Nombre,flux
+1991,Camions,197,Nombre,flux
+1992,Camions,211,Nombre,flux
+1993,Camions,153,Nombre,flux
+1994,Camions,166,Nombre,flux
+1995,Camions,204,Nombre,flux
+1996,Camions,325,Nombre,flux
+1997,Camions,375,Nombre,flux
+1998,Camions,545,Nombre,flux
+1999,Camions,501,Nombre,flux
+2000,Camions,460,Nombre,flux
+2001,Camions,497,Nombre,flux
+2002,Camions,483,Nombre,flux
+2003,Camions,884,Nombre,flux
+2004,Camions,608,Nombre,flux
+2005,Camions,770,Nombre,flux
+2006,Camions,681,Nombre,flux
+2007,Camions,652,Nombre,flux
+2008,Camions,824,Nombre,flux
+2009,Camions,765,Nombre,flux
+2010,Camions,1382,Nombre,flux
+2011,Camions,1939,Nombre,flux
+2012,Camions,2434,Nombre,flux
+2013,Camions,2286,Nombre,flux
+2014,Camions,2506,Nombre,flux
+2015,Camions,1120,Nombre,flux
+2016,Camions,791,Nombre,flux
+2017,Camions,883,Nombre,flux
+2018,Camions,897,Nombre,flux
+2019,Camions,960,Nombre,flux
+2020,Camions,1407,Nombre,flux
+2021,Camions,1380,Nombre,flux
+2022,Camions,1241,Nombre,flux
+1990,Semi-remorques,63,Nombre,flux
+1991,Semi-remorques,91,Nombre,flux
+1992,Semi-remorques,75,Nombre,flux
+1993,Semi-remorques,42,Nombre,flux
+1994,Semi-remorques,41,Nombre,flux
+1995,Semi-remorques,71,Nombre,flux
+1996,Semi-remorques,143,Nombre,flux
+1997,Semi-remorques,70,Nombre,flux
+1998,Semi-remorques,89,Nombre,flux
+1999,Semi-remorques,104,Nombre,flux
+2000,Semi-remorques,102,Nombre,flux
+2001,Semi-remorques,141,Nombre,flux
+2002,Semi-remorques,122,Nombre,flux
+2003,Semi-remorques,248,Nombre,flux
+2004,Semi-remorques,229,Nombre,flux
+2005,Semi-remorques,248,Nombre,flux
+2006,Semi-remorques,221,Nombre,flux
+2007,Semi-remorques,192,Nombre,flux
+2008,Semi-remorques,247,Nombre,flux
+2009,Semi-remorques,304,Nombre,flux
+2010,Semi-remorques,741,Nombre,flux
+2011,Semi-remorques,978,Nombre,flux
+2012,Semi-remorques,894,Nombre,flux
+2013,Semi-remorques,1032,Nombre,flux
+2014,Semi-remorques,1130,Nombre,flux
+2015,Semi-remorques,493,Nombre,flux
+2016,Semi-remorques,394,Nombre,flux
+2017,Semi-remorques,569,Nombre,flux
+2018,Semi-remorques,631,Nombre,flux
+2019,Semi-remorques,638,Nombre,flux
+2020,Semi-remorques,816,Nombre,flux
+2021,Semi-remorques,764,Nombre,flux
+2022,Semi-remorques,793,Nombre,flux
+1990,Tracteurs,79,Nombre,flux
+1991,Tracteurs,93,Nombre,flux
+1992,Tracteurs,100,Nombre,flux
+1993,Tracteurs,57,Nombre,flux
+1994,Tracteurs,64,Nombre,flux
+1995,Tracteurs,82,Nombre,flux
+1996,Tracteurs,153,Nombre,flux
+1997,Tracteurs,84,Nombre,flux
+1998,Tracteurs,140,Nombre,flux
+1999,Tracteurs,147,Nombre,flux
+2000,Tracteurs,139,Nombre,flux
+2001,Tracteurs,132,Nombre,flux
+2002,Tracteurs,116,Nombre,flux
+2003,Tracteurs,240,Nombre,flux
+2004,Tracteurs,249,Nombre,flux
+2005,Tracteurs,324,Nombre,flux
+2006,Tracteurs,279,Nombre,flux
+2007,Tracteurs,213,Nombre,flux
+2008,Tracteurs,253,Nombre,flux
+2009,Tracteurs,376,Nombre,flux
+2010,Tracteurs,750,Nombre,flux
+2011,Tracteurs,751,Nombre,flux
+2012,Tracteurs,1058,Nombre,flux
+2013,Tracteurs,1148,Nombre,flux
+2014,Tracteurs,1258,Nombre,flux
+2015,Tracteurs,720,Nombre,flux
+2016,Tracteurs,530,Nombre,flux
+2017,Tracteurs,780,Nombre,flux
+2018,Tracteurs,841,Nombre,flux
+2019,Tracteurs,856,Nombre,flux
+2020,Tracteurs,1105,Nombre,flux
+2021,Tracteurs,1082,Nombre,flux
+2022,Tracteurs,1195,Nombre,flux
+1990,Voitures,3814,Nombre,flux
+1991,Voitures,4004,Nombre,flux
+1992,Voitures,4300,Nombre,flux
+1993,Voitures,2577,Nombre,flux
+1994,Voitures,3227,Nombre,flux
+1995,Voitures,6728,Nombre,flux
+1996,Voitures,6239,Nombre,flux
+1997,Voitures,7503,Nombre,flux
+1998,Voitures,7470,Nombre,flux
+1999,Voitures,8642,Nombre,flux
+2000,Voitures,7154,Nombre,flux
+2001,Voitures,8469,Nombre,flux
+2002,Voitures,9500,Nombre,flux
+2003,Voitures,13991,Nombre,flux
+2004,Voitures,11430,Nombre,flux
+2005,Voitures,11308,Nombre,flux
+2006,Voitures,10961,Nombre,flux
+2007,Voitures,10692,Nombre,flux
+2008,Voitures,10989,Nombre,flux
+2009,Voitures,5751,Nombre,flux
+2010,Voitures,6229,Nombre,flux
+2011,Voitures,7256,Nombre,flux
+2012,Voitures,9056,Nombre,flux
+2013,Voitures,9402,Nombre,flux
+2014,Voitures,10304,Nombre,flux
+2015,Voitures,14500,Nombre,flux
+2016,Voitures,14079,Nombre,flux
+2017,Voitures,14328,Nombre,flux
+2018,Voitures,15607,Nombre,flux
+2019,Voitures,18072,Nombre,flux
+2020,Voitures,16386,Nombre,flux
+2021,Voitures,20313,Nombre,flux
+2022,Voitures,18131,Nombre,flux

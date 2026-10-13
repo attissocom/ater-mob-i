@@ -1,0 +1,4 @@
+indicateur,troncon,etat,unite,annee,valeur,categorie,revetement
+VOIRIES EN TERRES,VOIRIES EN TERRE,BON,km,2020,42.75,voirie,terre
+VOIRIES EN TERRES,VOIRIES EN TERRE,MOYEN,km,2020,14.9,voirie,terre
+VOIRIES EN TERRES,VOIRIES EN TERRE,MAUVAIS,km,2020,5.23,voirie,terre

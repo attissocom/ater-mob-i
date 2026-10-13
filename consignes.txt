@@ -1,0 +1,17 @@
+
+ Le problème
+
+Le nombre de véhicules immatriculés chaque année au Togo a plus que quadruplé en vingt ans, porté par les motos. Dans le même temps, les accidents de la route augmentent : plus de 7 500 accidents et 683 morts en 2022. Le réseau routier reste inégalement entretenu selon les régions. À partir des données ouvertes sur les immatriculations, les permis de conduire, les accidents, l'état et le tracé du réseau routier, les auto-écoles et la population, construisez un tableau de bord qui mesure l'évolution de la mobilité et de la sécurité routière. Proposez des recommandations pour une mobilité plus sûre.
+
+2.	Objectifs
+
+Retracer l'évolution des véhicules immatriculés (voitures, motos, poids lourds) et des permis de conduire délivrés par catégorie.
+Analyser la sécurité routière : accidents, blessés et morts, rapportés à la population et au nombre de véhicules.
+Évaluer l'état du réseau routier par tronçon et par région : bon état, état moyen, mauvais état, travaux en cours.
+Cartographier le réseau routier classé et les auto-écoles par région et par préfecture, et les rapporter à la population.
+Proposer des recommandations ciblées pour améliorer la sécurité routière, la formation des conducteurs et l'entretien du réseau dans les régions les moins bien desservies.
+
+3.	Livrables attendus
+
+Un tableau de bord interactif (.zip) : Réalisé avec Power BI (.pbix) ou Python (streamlit).
+Un rapport PowerPoint (maximum 10 diapositives) expliquant les analyses effectuées, les résultats obtenus et les recommandations stratégiques.

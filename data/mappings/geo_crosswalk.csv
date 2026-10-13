@@ -1,0 +1,1139 @@
+dataset_source,niveau,name_source,name_normalized,name_canonical,region,prefecture,commune,canton,score,method,needs_review
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+routes_classees,commune,Assoli 1,assoli 1,assoli 1,kara,assoli,assoli 1,,100,exact,False
+routes_classees,canton,Bafilo,bafilo,bafilo,kara,assoli,assoli 1,bafilo,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+routes_classees,commune,Assoli 1,assoli 1,assoli 1,kara,assoli,assoli 1,,100,exact,False
+routes_classees,canton,Bouladè,boulade,boulade,kara,assoli,assoli 1,boulade,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 3,wawa 3,wawa 3,plateaux,wawa,wawa 3,,100,exact,False
+routes_classees,canton,Klabé-Efoukpa,klabe efoukpa,klabe efoukpa,plateaux,wawa,wawa 3,klabe efoukpa,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Binah,binah,binah,kara,binah,,,100,exact,False
+routes_classees,commune,Binah 1,binah 1,binah 1,kara,binah,binah 1,,100,exact,False
+routes_classees,canton,Lama-Dessi,lama dessi,lama dessi,kara,binah,binah 1,lama dessi,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+routes_classees,canton,Kparataou,kparataou,kparatao,centrale,tchaoudjo,tchaoudjo 1,kparatao,94,fuzzy,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 3,wawa 3,wawa 3,plateaux,wawa,wawa 3,,100,exact,False
+routes_classees,canton,Okou,okou,okou,plateaux,wawa,wawa 3,okou,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,Katchenkè,katchenke,katchenke,centrale,blitta,blitta 3,katchenke,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Kébo,agou kebo,agou kebo,plateaux,agou,agou 1,agou kebo,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal,kpendjal,kpendjal,savanes,kpendjal,,,100,exact,False
+routes_classees,commune,Kpendjal 1,kpendjal 1,kpendjal 1,savanes,kpendjal,kpendjal 1,,100,exact,False
+routes_classees,canton,Mandouri,mandouri,mandouri,savanes,kpendjal,kpendjal 1,mandouri,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 1,est mono 1,est mono 1,plateaux,est mono,est mono 1,,100,exact,False
+routes_classees,canton,Elavagnon,elavagnon,elavagnon,plateaux,est mono,est mono 1,elavagnon,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 1,haho 1,haho 1,plateaux,haho,haho 1,,100,exact,False
+routes_classees,canton,Hahomégbé,hahomegbe,hahomegbe,plateaux,haho,haho 1,hahomegbe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Kati,kati,kati,plateaux,agou,agou 1,kati,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Gadja,gadja,gadja,plateaux,agou,agou 1,gadja,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 1,kozah 1,kozah 1,kara,kozah,kozah 1,,100,exact,False
+routes_classees,canton,Commune De Kara,kara,kara,kara,kozah,kozah 1,,50,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Iboé,agou iboe,agou yiboe,plateaux,agou,agou 1,agou yiboe,94,fuzzy,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Tchitchao,tchitchao,tchitchao,kara,kozah,kozah 2,tchitchao,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Sara-Kawa,sara kawa,sarakawa,kara,kozah,kozah 2,sarakawa,94,fuzzy,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 3,doufelgou 3,doufelgou 3,kara,doufelgou,doufelgou 3,,100,exact,False
+routes_classees,canton,Léon,leon,leon,kara,doufelgou,doufelgou 3,leon,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 3,kozah 3,kozah 3,kara,kozah,kozah 3,,100,exact,False
+routes_classees,canton,Awandjélo,awandjelo,awandjelo,kara,kozah,kozah 3,awandjelo,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 3,doufelgou 3,doufelgou 3,kara,doufelgou,doufelgou 3,,100,exact,False
+routes_classees,canton,Alloum,alloum,alloum,kara,doufelgou,doufelgou 3,alloum,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 3,est mono 3,est mono 3,plateaux,est mono,est mono 3,,100,exact,False
+routes_classees,canton,Kpéssi,kpessi,kpessi,plateaux,est mono,est mono 3,kpessi,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 3,doufelgou 3,doufelgou 3,kara,doufelgou,doufelgou 3,,100,exact,False
+routes_classees,canton,Tchoré,tchore,tchore,kara,doufelgou,doufelgou 3,tchore,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 3,doufelgou 3,doufelgou 3,kara,doufelgou,doufelgou 3,,100,exact,False
+routes_classees,canton,Kadjalla,kadjalla,kadjalla,kara,doufelgou,doufelgou 3,kadjalla,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kéran,keran,keran,kara,keran,,,100,exact,False
+routes_classees,commune,Kéran 1,keran 1,keran 1,kara,keran,keran 1,,100,exact,False
+routes_classees,canton,Kantè,kante,kante,kara,keran,keran 1,,80,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 3,est mono 3,est mono 3,plateaux,est mono,est mono 3,,100,exact,False
+routes_classees,canton,Nyamassila,nyamassila,nyamassila,plateaux,est mono,est mono 3,nyamassila,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Pya,pya,pya,kara,kozah,kozah 2,pya,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Kouméa,koumea,koumea,kara,kozah,kozah 2,koumea,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 1,kozah 1,kozah 1,kara,kozah,kozah 1,,100,exact,False
+routes_classees,canton,Lassa,lassa,lassa,kara,kozah,kozah 1,lassa,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+routes_classees,canton,Kpadapé,kpadape,kpadape,plateaux,kloto,kloto 1,,73,display_only,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal,kpendjal,kpendjal,savanes,kpendjal,,,100,exact,False
+routes_classees,commune,Kpendjal 1,kpendjal 1,kpendjal 1,savanes,kpendjal,kpendjal 1,,100,exact,False
+routes_classees,canton,Koundjoaré,koundjoare,koundjoare,savanes,kpendjal,kpendjal 1,koundjoare,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 1,kozah 1,kozah 1,kara,kozah,kozah 1,,100,exact,False
+routes_classees,canton,Soumdina,soumdina,soumdina,kara,kozah,kozah 1,soumdina,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+routes_classees,canton,Agome-Kpalime,agome kpalime,agome kpalime,plateaux,kloto,kloto 1,agome kpalime,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+routes_classees,canton,Womé,wome,wome,plateaux,kloto,kloto 1,,75,display_only,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 4,kozah 4,kozah 4,kara,kozah,kozah 4,,100,exact,False
+routes_classees,canton,Atchangbadè,atchangbade,atchangbade,kara,kozah,kozah 4,atchangbade,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 3,kloto 3,kloto 3,plateaux,kloto,kloto 3,,100,exact,False
+routes_classees,canton,Agomé-Tomégbé,agome tomegbe,agome tomegbe,plateaux,kloto,kloto 3,agome tomegbe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 3,kloto 3,kloto 3,plateaux,kloto,kloto 3,,100,exact,False
+routes_classees,canton,Kouma,kouma,kouma,plateaux,kloto,kloto 3,kouma,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 1,ogou 1,ogou 1,plateaux,ogou,ogou 1,,100,exact,False
+routes_classees,canton,Djama,djama,djama,plateaux,ogou,ogou 1,djama,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 1,ogou 1,ogou 1,plateaux,ogou,ogou 1,,100,exact,False
+routes_classees,canton,Gnagna,gnagna,gnagna,plateaux,ogou,ogou 1,gnagna,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 1,haho 1,haho 1,plateaux,haho,haho 1,,100,exact,False
+routes_classees,canton,Notsé,notse,notse,plateaux,haho,haho 1,notse,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+routes_classees,canton,Tové,tove,tove,plateaux,kloto,kloto 1,tove,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+routes_classees,canton,Gbalabé,gbalabe,gbalabe,plateaux,kloto,kloto 1,,85,display_only,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kéran,keran,keran,kara,keran,,,100,exact,False
+routes_classees,commune,Kéran 3,keran 3,keran 3,kara,keran,keran 3,,100,exact,False
+routes_classees,canton,Warengo,warengo,warengo,kara,keran,keran 3,warengo,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kéran,keran,keran,kara,keran,,,100,exact,False
+routes_classees,commune,Kéran 3,keran 3,keran 3,kara,keran,keran 3,,100,exact,False
+routes_classees,canton,Nadoba,nadoba,nadoba,kara,keran,keran 3,nadoba,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Tcharè,tchare,tchare,kara,kozah,kozah 2,tchare,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Bohou,bohou,bohou,kara,kozah,kozah 2,bohou,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 4,kozah 4,kozah 4,kara,kozah,kozah 4,,100,exact,False
+routes_classees,canton,Djamdè,djamde,djamde,kara,kozah,kozah 4,djamde,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 1,lacs 1,lacs 1,maritime,lacs,lacs 1,,100,exact,False
+routes_classees,canton,Glidji,glidji,glidji,maritime,lacs,lacs 1,glidji,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 1,lacs 1,lacs 1,maritime,lacs,lacs 1,,100,exact,False
+routes_classees,canton,Canton D’Aneho,aneho,aneho,maritime,lacs,lacs 1,aneho,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 4,bassar 4,bassar 4,kara,bassar,bassar 4,,100,exact,False
+routes_classees,canton,Sanda-Kagbanda,sanda kagbanda,sanda kagbanda,kara,bassar,bassar 4,sanda kagbanda,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 3,bassar 3,bassar 3,kara,bassar,bassar 3,,100,exact,False
+routes_classees,canton,Kabou,kabou,kabou,kara,bassar,bassar 3,kabou,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 2,bassar 2,bassar 2,kara,bassar,bassar 2,,100,exact,False
+routes_classees,canton,Bangeli,bangeli,bangeli,kara,bassar,bassar 2,bangeli,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 4,bassar 4,bassar 4,kara,bassar,bassar 4,,100,exact,False
+routes_classees,canton,Sanda-Afohou,sanda afohou,sanda afohou,kara,bassar,bassar 4,sanda afohou,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 1,lacs 1,lacs 1,maritime,lacs,lacs 1,,100,exact,False
+routes_classees,canton,Aného,aneho,aneho,maritime,lacs,lacs 1,aneho,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 4,lacs 4,lacs 4,maritime,lacs,lacs 4,,100,exact,False
+routes_classees,canton,Ganavé,ganave,ganave,maritime,lacs,lacs 4,ganave,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 4,lacs 4,lacs 4,maritime,lacs,lacs 4,,100,exact,False
+routes_classees,canton,Fiata,fiata,fiata,maritime,lacs,lacs 4,fiata,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 4,golfe 4,golfe 4,maritime,golfe,golfe 4,,100,exact,False
+routes_classees,canton,Amoutivé,amoutive,amoutive,maritime,golfe,golfe 4,amoutive,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 2,lacs 2,lacs 2,maritime,lacs,lacs 2,,100,exact,False
+routes_classees,canton,Aklakou,aklakou,aklakou,maritime,lacs,lacs 2,aklakou,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Bas-Mono,bas mono,bas mono,maritime,bas mono,,,100,exact,False
+routes_classees,commune,Bas-Mono 2,bas mono 2,bas mono 2,maritime,bas mono,bas mono 2,,100,exact,False
+routes_classees,canton,Agome-Glozou,agome glozou,agome glozou,maritime,bas mono,bas mono 2,,44,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Bas-Mono,bas mono,bas mono,maritime,bas mono,,,100,exact,False
+routes_classees,commune,Bas-Mono 1,bas mono 1,bas mono 1,maritime,bas mono,bas mono 1,,100,exact,False
+routes_classees,canton,Afagnangan,afagnangan,afagnagan,maritime,bas mono,bas mono 1,afagnagan,94,fuzzy,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal-Ouest,kpendjal ouest,kpendjal ouest,savanes,kpendjal ouest,,,100,exact,False
+routes_classees,commune,Kpendjal-Ouest 1,kpendjal ouest 1,kpendjal ouest 1,savanes,kpendjal ouest,kpendjal ouest 1,,100,exact,False
+routes_classees,canton,Naki-Est,naki est,naki est,savanes,kpendjal ouest,kpendjal ouest 1,naki est,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal-Ouest,kpendjal ouest,kpendjal ouest,savanes,kpendjal ouest,,,100,exact,False
+routes_classees,commune,Kpendjal-Ouest 1,kpendjal ouest 1,kpendjal ouest 1,savanes,kpendjal ouest,kpendjal ouest 1,,100,exact,False
+routes_classees,canton,Ogaro,ogaro,ogaro,savanes,kpendjal ouest,kpendjal ouest 1,ogaro,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal,kpendjal,kpendjal,savanes,kpendjal,,,100,exact,False
+routes_classees,commune,Kpendjal 2,kpendjal 2,kpendjal 2,savanes,kpendjal,kpendjal 2,,100,exact,False
+routes_classees,canton,Borgou,borgou,borgou,savanes,kpendjal,kpendjal 2,borgou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kpélé,kpele,kpele,plateaux,kpele,,,100,exact,False
+routes_classees,commune,Kpélé 1,kpele 1,kpele 1,plateaux,kpele,kpele 1,,100,exact,False
+routes_classees,canton,Kpélé-Novivé,kpele novive,kpele novive,plateaux,kpele,kpele 1,kpele novive,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 2,danyi 2,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 1,danyi 1,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 1,danyi 1,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 1,danyi 1,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kpélé,kpele,kpele,plateaux,kpele,,,100,exact,False
+routes_classees,commune,Kpélé 1,kpele 1,kpele 1,plateaux,kpele,kpele 1,,100,exact,False
+routes_classees,canton,Kpélé-Akata,kpele akata,kpele akata,plateaux,kpele,kpele 1,,64,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 1,golfe 1,golfe 1,maritime,golfe,golfe 1,,100,exact,False
+routes_classees,canton,Bè-Est,be est,be est,maritime,golfe,golfe 1,,57,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 6,golfe 6,golfe 6,maritime,golfe,golfe 6,,100,exact,False
+routes_classees,canton,Baguida,baguida,baguida,maritime,golfe,golfe 6,baguida,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 1,bassar 1,bassar 1,kara,bassar,bassar 1,,100,exact,False
+routes_classees,canton,Bassar,bassar,bassar,kara,bassar,bassar 1,bassar,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+routes_classees,canton,Pagala-Gare,pagala gare,pagala gare,centrale,blitta,blitta 1,pagala gare,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+routes_classees,canton,Blitta-Village,blitta village,blitta village,centrale,blitta,blitta 1,blitta village,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+routes_classees,canton,Blitta,blitta,blitta,centrale,blitta,blitta 1,,70,display_only,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+routes_classees,canton,Yaloumbè,yaloumbe,yaloumbe,centrale,blitta,blitta 1,yaloumbe,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 2,blitta 2,blitta 2,centrale,blitta,blitta 2,,100,exact,False
+routes_classees,canton,Langabou,langabou,langabou,centrale,blitta,blitta 2,langabou,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,Pagala-Village,pagala village,pagala village,centrale,blitta,blitta 3,pagala village,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,Tchifama,tchifama,tchifama,centrale,blitta,blitta 3,tchifama,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,M'Poti,m poti,m poti,centrale,blitta,blitta 3,m poti,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Binah,binah,binah,kara,binah,,,100,exact,False
+routes_classees,commune,Binah 1,binah 1,binah 1,kara,binah,binah 1,,100,exact,False
+routes_classees,canton,Pagouda,pagouda,pagouda,kara,binah,binah 1,pagouda,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,Yégué,yegue,yegue,centrale,blitta,blitta 3,yegue,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 3,blitta 3,blitta 3,centrale,blitta,blitta 3,,100,exact,False
+routes_classees,canton,Dikpéléou,dikpeleou,dikpeleou,centrale,blitta,blitta 3,dikpeleou,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Binah,binah,binah,kara,binah,,,100,exact,False
+routes_classees,commune,Binah 1,binah 1,binah 1,kara,binah,binah 1,,100,exact,False
+routes_classees,canton,Pessaré,pessare,pessare,kara,binah,binah 1,pessare,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 1,doufelgou 1,doufelgou 1,kara,doufelgou,doufelgou 1,,100,exact,False
+routes_classees,canton,Siou,siou,siou,kara,doufelgou,doufelgou 1,siou,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 1,doufelgou 1,doufelgou 1,kara,doufelgou,doufelgou 1,,100,exact,False
+routes_classees,canton,Koka,koka,koka,kara,doufelgou,doufelgou 1,koka,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 1,bassar 1,bassar 1,kara,bassar,bassar 1,,100,exact,False
+routes_classees,canton,Kalanga,kalanga,kalanga,kara,bassar,bassar 1,kalanga,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 2,bassar 2,bassar 2,kara,bassar,bassar 2,,100,exact,False
+routes_classees,canton,Bitchabe,bitchabe,bitchabe,kara,bassar,bassar 2,bitchabe,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 2,blitta 2,blitta 2,centrale,blitta,blitta 2,,100,exact,False
+routes_classees,canton,Koffiti,koffiti,koffiti,centrale,blitta,blitta 2,koffiti,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 2,est mono 2,est mono 2,plateaux,est mono,est mono 2,,100,exact,False
+routes_classees,canton,Kamina,kamina,kamina,plateaux,est mono,est mono 2,kamina,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Dankpen,dankpen,dankpen,kara,dankpen,,,100,exact,False
+routes_classees,commune,Dankpen 1,dankpen 1,dankpen 1,kara,dankpen,dankpen 1,,100,exact,False
+routes_classees,canton,Naompoch,naompoch,nampoch,kara,dankpen,dankpen 1,nampoch,93,fuzzy,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Dankpen,dankpen,dankpen,kara,dankpen,,,100,exact,False
+routes_classees,commune,Dankpen 1,dankpen 1,dankpen 1,kara,dankpen,dankpen 1,,100,exact,False
+routes_classees,canton,Katchamba,katchamba,katchamba,kara,dankpen,dankpen 1,katchamba,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 1,doufelgou 1,doufelgou 1,kara,doufelgou,doufelgou 1,,100,exact,False
+routes_classees,canton,Niamtougou,niamtougou,niamtougou,kara,doufelgou,doufelgou 1,niamtougou,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+routes_classees,commune,Bassar 3,bassar 3,bassar 3,kara,bassar,bassar 3,,100,exact,False
+routes_classees,canton,Manga,manga,manga,kara,bassar,bassar 3,manga,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Dankpen,dankpen,dankpen,kara,dankpen,,,100,exact,False
+routes_classees,commune,Dankpen 1,dankpen 1,dankpen 1,kara,dankpen,dankpen 1,,100,exact,False
+routes_classees,canton,Guérin-Kouka,guerin kouka,guerin kouka,kara,dankpen,dankpen 1,guerin kouka,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 2,blitta 2,blitta 2,centrale,blitta,blitta 2,,100,exact,False
+routes_classees,canton,Tcharè-Baou,tchare baou,tchare baou,centrale,blitta,blitta 2,tchare baou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 1,wawa 1,wawa 1,plateaux,wawa,wawa 1,,100,exact,False
+routes_classees,canton,Badou,badou,badou,plateaux,wawa,wawa 1,badou,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+routes_classees,commune,Blitta 2,blitta 2,blitta 2,centrale,blitta,blitta 2,,100,exact,False
+routes_classees,canton,Agbandi,agbandi,agbandi,centrale,blitta,blitta 2,agbandi,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 2,tchaoudjo 2,tchaoudjo 2,centrale,tchaoudjo,tchaoudjo 2,,100,exact,False
+routes_classees,canton,Lama-Tessi,lama tessi,lama tessi,centrale,tchaoudjo,tchaoudjo 2,lama tessi,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 2,ave 2,ave 2,maritime,ave,ave 2,,100,exact,False
+routes_classees,canton,Noépé,noepe,noepe,maritime,ave,ave 2,noepe,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 3,sotouboua 3,sotouboua 3,centrale,sotouboua,sotouboua 3,,100,exact,False
+routes_classees,canton,Tchébébé,tchebebe,tchebebe,centrale,sotouboua,sotouboua 3,tchebebe,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+routes_classees,canton,Tchalo,tchalo,tchalo,centrale,tchaoudjo,tchaoudjo 1,tchalo,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+routes_classees,commune,Assoli 2,assoli 2,assoli 2,kara,assoli,assoli 2,,100,exact,False
+routes_classees,canton,Alédjo,aledjo,aledjo,kara,assoli,assoli 2,aledjo,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 2,sotouboua 2,sotouboua 2,centrale,sotouboua,sotouboua 2,,100,exact,False
+routes_classees,canton,Adjengré,adjengre,adjengre,centrale,sotouboua,sotouboua 2,adjengre,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 2,sotouboua 2,sotouboua 2,centrale,sotouboua,sotouboua 2,,100,exact,False
+routes_classees,canton,Aouda,aouda,aouda,centrale,sotouboua,sotouboua 2,aouda,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+routes_classees,canton,Kadambara,kadambara,kadambara,centrale,tchaoudjo,tchaoudjo 1,kadambara,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+routes_classees,canton,Sokodè (Komah),sokode komah,sokode komah,centrale,tchaoudjo,tchaoudjo 1,,58,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 1,haho 1,haho 1,plateaux,haho,haho 1,,100,exact,False
+routes_classees,canton,Dalia,dalia,dalia,plateaux,haho,haho 1,dalia,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 1,haho 1,haho 1,plateaux,haho,haho 1,,100,exact,False
+routes_classees,canton,Atchavé,atchave,atchave,plateaux,haho,haho 1,atchave,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+routes_classees,canton,Kpangalam,kpangalam,kpangalam,centrale,tchaoudjo,tchaoudjo 1,kpangalam,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 3,tchaoudjo 3,tchaoudjo 3,centrale,tchaoudjo,tchaoudjo 3,,100,exact,False
+routes_classees,canton,Kolina,kolina,kolina,centrale,tchaoudjo,tchaoudjo 3,kolina,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 3,tchaoudjo 3,tchaoudjo 3,centrale,tchaoudjo,tchaoudjo 3,,100,exact,False
+routes_classees,canton,Amaïde,amaide,amaide,centrale,tchaoudjo,tchaoudjo 3,amaide,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+routes_classees,commune,Tchaoudjo 3,tchaoudjo 3,tchaoudjo 3,centrale,tchaoudjo,tchaoudjo 3,,100,exact,False
+routes_classees,canton,Aléhéridè,aleheride,aleheride,centrale,tchaoudjo,tchaoudjo 3,aleheride,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 2,golfe 2,golfe 2,maritime,golfe,golfe 2,,100,exact,False
+routes_classees,canton,Bè-Centre,be centre,be centre,maritime,golfe,golfe 2,,30,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 3,haho 3,haho 3,plateaux,haho,haho 3,,100,exact,False
+routes_classees,canton,Kpédomé,kpedome,kpedome,plateaux,haho,haho 3,kpedome,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 4,haho 4,haho 4,plateaux,haho,haho 4,,100,exact,False
+routes_classees,canton,Wahala,wahala,wahala,plateaux,haho,haho 4,wahala,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 3,ogou 3,ogou 3,plateaux,ogou,ogou 3,,100,exact,False
+routes_classees,canton,Gléi,glei,glei,plateaux,ogou,ogou 3,glei,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 2,ogou 2,ogou 2,plateaux,ogou,ogou 2,,100,exact,False
+routes_classees,canton,Datcha,datcha,datcha,plateaux,ogou,ogou 2,datcha,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 1,ogou 1,ogou 1,plateaux,ogou,ogou 1,,100,exact,False
+routes_classees,canton,Houdou,houdou,houdou,plateaux,ogou,ogou 1,,83,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Anié,anie,anie,plateaux,anie,,,100,exact,False
+routes_classees,commune,Anié 1,anie 1,anie 1,plateaux,anie,anie 1,,100,exact,False
+routes_classees,canton,Anié,anie,anie,plateaux,anie,anie 1,anie,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 3,golfe 3,golfe 3,maritime,golfe,golfe 3,,100,exact,False
+routes_classees,canton,Bè-Ouest,be ouest,be ouest,maritime,golfe,golfe 3,,42,display_only,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,,,100,exact,False
+routes_classees,commune,Cinkassé 2,cinkasse 2,cinkasse 2,savanes,cinkasse,cinkasse 2,,100,exact,False
+routes_classees,canton,Biankouri,biankouri,biankouri,savanes,cinkasse,cinkasse 2,biankouri,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 2,tone 2,tone 2,savanes,tone,tone 2,,100,exact,False
+routes_classees,canton,Namaré,namare,namare,savanes,tone,tone 2,namare,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 2,haho 2,haho 2,plateaux,haho,haho 2,,100,exact,False
+routes_classees,canton,Djemegni,djemegni,djemegni,plateaux,haho,haho 2,djemegni,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Haho,haho,haho,plateaux,haho,,,100,exact,False
+routes_classees,commune,Haho 2,haho 2,haho 2,plateaux,haho,haho 2,,100,exact,False
+routes_classees,canton,Asrama,asrama,asrama,plateaux,haho,haho 2,asrama,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Moyen-Mono,moyen mono,moyen mono,plateaux,moyen mono,,,100,exact,False
+routes_classees,commune,Moyen-Mono 1,moyen mono 1,moyen mono 1,plateaux,moyen mono,moyen mono 1,,100,exact,False
+routes_classees,canton,Tohoun,tohoun,tohoun,plateaux,moyen mono,moyen mono 1,tohoun,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 7,golfe 7,golfe 7,maritime,golfe,golfe 7,,100,exact,False
+routes_classees,canton,Aflao-Sagbado,aflao sagbado,aflao sagbado,maritime,golfe,golfe 7,,70,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 2,ave 2,ave 2,maritime,ave,ave 2,,100,exact,False
+routes_classees,canton,Aképé,akepe,akepe,maritime,ave,ave 2,akepe,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 3,lacs 3,lacs 3,maritime,lacs,lacs 3,,100,exact,False
+routes_classees,canton,Agbodrafo,agbodrafo,agbodrafo,maritime,lacs,lacs 3,agbodrafo,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+routes_classees,commune,Golfe 5,golfe 5,golfe 5,maritime,golfe,golfe 5,,100,exact,False
+routes_classees,canton,Aflao-Gakli,aflao gakli,aflao gakli,maritime,golfe,golfe 5,aflao gakli,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+routes_classees,commune,Agoè-Nyivé 5,agoe nyive 5,agoe nyive 5,maritime,agoe nyive,agoe nyive 5,,100,exact,False
+routes_classees,canton,Sanguera,sanguera,sanguera,maritime,agoe nyive,agoe nyive 5,,72,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 2,ave 2,ave 2,maritime,ave,ave 2,,100,exact,False
+routes_classees,canton,Badja,badja,badja,maritime,ave,ave 2,badja,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 1,ave 1,ave 1,maritime,ave,ave 1,,100,exact,False
+routes_classees,canton,Kévé,keve,keve,maritime,ave,ave 1,keve,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 1,ave 1,ave 1,maritime,ave,ave 1,,100,exact,False
+routes_classees,canton,Tovégan,tovegan,tovegan,maritime,ave,ave 1,tovegan,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 2,agou 2,agou 2,plateaux,agou,agou 2,,100,exact,False
+routes_classees,canton,Amoussou-Kopé,amoussou kope,amoussou kope,plateaux,agou,agou 2,amoussou kope,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Djagblé,djagble,djagble,maritime,zio,zio 1,djagble,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Abobo,abobo,abobo,maritime,zio,zio 1,abobo,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Kpomé,kpome,kpome,maritime,zio,zio 1,kpome,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 4,vo 4,vo 4,maritime,vo,vo 4,,100,exact,False
+routes_classees,canton,Hahotoé,hahotoe,hahotoe,maritime,vo,vo 4,hahotoe,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+routes_classees,commune,Agoè-Nyivé 2,agoe nyive 2,agoe nyive 2,maritime,agoe nyive,agoe nyive 2,,100,exact,False
+routes_classees,canton,Légbassito,legbassito,legbassito,maritime,agoe nyive,agoe nyive 2,legbassito,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 1,vo 1,vo 1,maritime,vo,vo 1,,100,exact,False
+routes_classees,canton,Vogan,vogan,vogan,maritime,vo,vo 1,vogan,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 1,vo 1,vo 1,maritime,vo,vo 1,,100,exact,False
+routes_classees,canton,Vo-Koutimé,vo koutime,vo koutime,maritime,vo,vo 1,vo koutime,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+routes_classees,commune,Lacs 4,lacs 4,lacs 4,maritime,lacs,lacs 4,,100,exact,False
+routes_classees,canton,Anfoin,anfoin,anfoin,maritime,lacs,lacs 4,anfoin,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+routes_classees,commune,Agoè-Nyivé 1,agoe nyive 1,agoe nyive 1,maritime,agoe nyive,agoe nyive 1,,100,exact,False
+routes_classees,canton,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,agoe nyive 1,,63,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 2,est mono 2,est mono 2,plateaux,est mono,est mono 2,,100,exact,False
+routes_classees,canton,Badin-Copé,badin cope,badin cope,plateaux,est mono,est mono 2,,66,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 2,est mono 2,est mono 2,plateaux,est mono,est mono 2,,100,exact,False
+routes_classees,canton,Morétan,moretan,moretan,plateaux,est mono,est mono 2,moretan,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Est-Mono,est mono,est mono,plateaux,est mono,,,100,exact,False
+routes_classees,commune,Est-Mono 1,est mono 1,est mono 1,plateaux,est mono,est mono 1,,100,exact,False
+routes_classees,canton,Gbadjahè,gbadjahe,gbadjahe,plateaux,est mono,est mono 1,gbadjahe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Anié,anie,anie,plateaux,anie,,,100,exact,False
+routes_classees,commune,Anié 1,anie 1,anie 1,plateaux,anie,anie 1,,100,exact,False
+routes_classees,canton,Kolo-Kopé,kolo kope,kolo kope,plateaux,anie,anie 1,kolo kope,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+routes_classees,commune,Tchamba 1,tchamba 1,tchamba 1,centrale,tchamba,tchamba 1,,100,exact,False
+routes_classees,canton,Tchamba,tchamba,tchamba,centrale,tchamba,tchamba 1,tchamba,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 2,doufelgou 2,doufelgou 2,kara,doufelgou,doufelgou 2,,100,exact,False
+routes_classees,canton,Défalé,defale,defale,kara,doufelgou,doufelgou 2,defale,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,,,100,exact,False
+routes_classees,commune,Cinkassé 1,cinkasse 1,cinkasse 1,savanes,cinkasse,cinkasse 1,,100,exact,False
+routes_classees,canton,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,cinkasse 1,cinkasse,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 1,tone 1,tone 1,savanes,tone,tone 1,,100,exact,False
+routes_classees,canton,Dapaong,dapaong,dapaong,savanes,tone,tone 1,dapaong,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 1,oti 1,oti 1,savanes,oti,oti 1,,100,exact,False
+routes_classees,canton,Mango,mango,mango,savanes,oti,oti 1,mango,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Davié,davie,davie,maritime,zio,zio 1,davie,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+routes_classees,commune,Agoè-Nyivé 6,agoe nyive 6,agoe nyive 6,maritime,agoe nyive,agoe nyive 6,,100,exact,False
+routes_classees,canton,Adétikopé,adetikope,adetikope,maritime,agoe nyive,agoe nyive 6,,72,display_only,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+routes_classees,commune,Assoli 1,assoli 1,assoli 1,kara,assoli,assoli 1,,100,exact,False
+routes_classees,canton,Dako (Daoude),dako daoude,dako daoude,kara,assoli,assoli 1,dako daoude,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 2,danyi 2,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Danyi,danyi,danyi,plateaux,danyi,,,100,exact,False
+routes_classees,commune,Danyi 2,danyi 2,danyi 1+danyi 2,plateaux,danyi,danyi 1+danyi 2,,100,override,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 2,oti 2,oti 2,savanes,oti,oti 2,,100,exact,False
+routes_classees,canton,Tchanaga,tchanaga,tchanaga,savanes,oti,oti 2,tchanaga,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 2,oti 2,oti 2,savanes,oti,oti 2,,100,exact,False
+routes_classees,canton,Nagbéni,nagbeni,nagbeni,savanes,oti,oti 2,nagbeni,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 4,vo 4,vo 4,maritime,vo,vo 4,,100,exact,False
+routes_classees,canton,Akoumapé,akoumape,akoumape,maritime,vo,vo 4,akoumape,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 2,yoto 2,yoto 2,maritime,yoto,yoto 2,,100,exact,False
+routes_classees,canton,Tchékpo,tchekpo,tchekpo,maritime,yoto,yoto 2,tchekpo,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 1,tone 1,tone 1,savanes,tone,tone 1,,100,exact,False
+routes_classees,canton,Pana,pana,pana,savanes,tone,tone 1,pana,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+routes_classees,commune,Agoè-Nyivé 4,agoe nyive 4,agoe nyive 4,maritime,agoe nyive,agoe nyive 4,,100,exact,False
+routes_classees,canton,Togblekope,togblekope,togblekope,maritime,agoe nyive,agoe nyive 4,,60,display_only,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 2,oti sud 2,oti sud 2,savanes,oti sud,oti sud 2,,100,exact,False
+routes_classees,canton,Takpamba,takpamba,takpamba,savanes,oti sud,oti sud 2,takpamba,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 2,oti sud 2,oti sud 2,savanes,oti sud,oti sud 2,,100,exact,False
+routes_classees,canton,Nali,nali,nali,savanes,oti sud,oti sud 2,nali,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 2,oti sud 2,oti sud 2,savanes,oti sud,oti sud 2,,100,exact,False
+routes_classees,canton,Koumongou,koumongou,koumongou,savanes,oti sud,oti sud 2,koumongou,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 1,oti 1,oti 1,savanes,oti,oti 1,,100,exact,False
+routes_classees,canton,Sadori,sadori,sadori,savanes,oti,oti 1,sadori,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+routes_classees,commune,Assoli 2,assoli 2,assoli 2,kara,assoli,assoli 2,,100,exact,False
+routes_classees,canton,Koumondè,koumonde,koumonde,kara,assoli,assoli 2,koumonde,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Binah,binah,binah,kara,binah,,,100,exact,False
+routes_classees,commune,Binah 2,binah 2,binah2,kara,binah,binah2,,92,fuzzy,False
+routes_classees,canton,Kémérida,kemerida,kemerida,kara,binah,binah2,kemerida,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 3,yoto 3,yoto 3,maritime,yoto,yoto 3,,100,exact,False
+routes_classees,canton,Essé-Godjin,esse godjin,esse godjin,maritime,yoto,yoto 3,esse godjin,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Binah,binah,binah,kara,binah,,,100,exact,False
+routes_classees,commune,Binah 2,binah 2,binah2,kara,binah,binah2,,92,fuzzy,False
+routes_classees,canton,Kétao,ketao,ketao,kara,binah,binah2,ketao,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 2,tone 2,tone 2,savanes,tone,tone 2,,100,exact,False
+routes_classees,canton,Naki-Ouest,naki ouest,naki ouest,savanes,tone,tone 2,naki ouest,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 4,tone 4,tone 4,savanes,tone,tone 4,,100,exact,False
+routes_classees,canton,Kantindi,kantindi,kantindi,savanes,tone,tone 4,kantindi,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 4,tone 4,tone 4,savanes,tone,tone 4,,100,exact,False
+routes_classees,canton,Korbongou,korbongou,korbongou,savanes,tone,tone 4,korbongou,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal-Ouest,kpendjal ouest,kpendjal ouest,savanes,kpendjal ouest,,,100,exact,False
+routes_classees,commune,Kpendjal-Ouest 2,kpendjal ouest 2,kpendjal ouest 2,savanes,kpendjal ouest,kpendjal ouest 2,,100,exact,False
+routes_classees,canton,Tambonga,tambonga,tambonga,savanes,kpendjal ouest,kpendjal ouest 2,tambonga,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Kpendjal-Ouest,kpendjal ouest,kpendjal ouest,savanes,kpendjal ouest,,,100,exact,False
+routes_classees,commune,Kpendjal-Ouest 2,kpendjal ouest 2,kpendjal ouest 2,savanes,kpendjal ouest,kpendjal ouest 2,,100,exact,False
+routes_classees,canton,Pogno,pogno,pogno,savanes,kpendjal ouest,kpendjal ouest 2,pogno,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 2,ogou 2,ogou 2,plateaux,ogou,ogou 2,,100,exact,False
+routes_classees,canton,Akparé,akpare,akpare,plateaux,ogou,ogou 2,akpare,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 3,amou 3,amou 3,plateaux,amou,amou 3,,100,exact,False
+routes_classees,canton,Hihéatro,hiheatro,hiheatro,plateaux,amou,amou 3,hiheatro,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 3,amou 3,amou 3,plateaux,amou,amou 3,,100,exact,False
+routes_classees,canton,Témédja,temedja,temedja,plateaux,amou,amou 3,temedja,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 1,amou 1,amou 1,plateaux,amou,amou 1,,100,exact,False
+routes_classees,canton,Amlamé (Ouma),amlame ouma,amlame ouma,plateaux,amou,amou 1,,54,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 3,amou 3,amou 3,plateaux,amou,amou 3,,100,exact,False
+routes_classees,canton,Evou,evou,evou,plateaux,amou,amou 3,evou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 1,amou 1,amou 1,plateaux,amou,amou 1,,100,exact,False
+routes_classees,canton,Imlè-Adiva,imle adiva,imle adiva,plateaux,amou,amou 1,,66,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Tavié,agou tavie,agou tavie,plateaux,agou,agou 1,agou tavie,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 2,amou 2,amou 2,plateaux,amou,amou 2,,100,exact,False
+routes_classees,canton,Sodo,sodo,sodo,plateaux,amou,amou 2,sodo,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kpélé,kpele,kpele,plateaux,kpele,,,100,exact,False
+routes_classees,commune,Kpélé 2,kpele 2,kpele 2,plateaux,kpele,kpele 2,,100,exact,False
+routes_classees,canton,Kpélé-Gbalédzé,kpele gbaledze,kpele gbaladze,plateaux,kpele,kpele 2,kpele gbaladze,92,fuzzy,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 2,kloto 2,kloto 2,plateaux,kloto,kloto 2,,100,exact,False
+routes_classees,canton,Lavié,lavie,lavie,plateaux,kloto,kloto 2,,41,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 2,kloto 2,kloto 2,plateaux,kloto,kloto 2,,100,exact,False
+routes_classees,canton,Kpimé,kpime,kpime,plateaux,kloto,kloto 2,kpime,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 1,oti sud 1,oti sud 1,savanes,oti sud,oti sud 1,,100,exact,False
+routes_classees,canton,Gando,gando,gando,savanes,oti sud,oti sud 1,gando,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 4,ogou 4,ogou 4,plateaux,ogou,ogou 4,,100,exact,False
+routes_classees,canton,Ountivou,ountivou,ountivou,plateaux,ogou,ogou 4,ountivou,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+routes_classees,commune,Tchamba 2,tchamba 2,tchamba 2,centrale,tchamba,tchamba 2,,100,exact,False
+routes_classees,canton,Koussountou,koussountou,koussountou,centrale,tchamba,tchamba 2,koussountou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Moyen-Mono,moyen mono,moyen mono,plateaux,moyen mono,,,100,exact,False
+routes_classees,commune,Moyen-Mono 1,moyen mono 1,moyen mono 1,plateaux,moyen mono,moyen mono 1,,100,exact,False
+routes_classees,canton,Tado,tado,tado,plateaux,moyen mono,moyen mono 1,tado,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Moyen-Mono,moyen mono,moyen mono,plateaux,moyen mono,,,100,exact,False
+routes_classees,commune,Moyen-Mono 2,moyen mono 2,moyen mono 2,plateaux,moyen mono,moyen mono 2,,100,exact,False
+routes_classees,canton,Kpékplémé,kpekpleme,kpekpleme,plateaux,moyen mono,moyen mono 2,kpekpleme,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Moyen-Mono,moyen mono,moyen mono,plateaux,moyen mono,,,100,exact,False
+routes_classees,commune,Moyen-Mono 2,moyen mono 2,moyen mono 2,plateaux,moyen mono,moyen mono 2,,100,exact,False
+routes_classees,canton,Saligbé,saligbe,saligbe,plateaux,moyen mono,moyen mono 2,saligbe,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Tsévié,tsevie,tsevie,maritime,zio,zio 1,tsevie,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+routes_classees,commune,Tchamba 3,tchamba 3,tchamba 3,centrale,tchamba,tchamba 3,,100,exact,False
+routes_classees,canton,Kaboli,kaboli,kaboli,centrale,tchamba,tchamba 3,kaboli,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Bas-Mono,bas mono,bas mono,maritime,bas mono,,,100,exact,False
+routes_classees,commune,Bas-Mono 1,bas mono 1,bas mono 1,maritime,bas mono,bas mono 1,,100,exact,False
+routes_classees,canton,Afagnan-Gbléta,afagnan gbleta,afagnan gbleta,maritime,bas mono,bas mono 1,,69,display_only,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 1,sotouboua 1,sotouboua 1,centrale,sotouboua,sotouboua 1,,100,exact,False
+routes_classees,canton,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,sotouboua 1,sotouboua,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 1,sotouboua 1,sotouboua 1,centrale,sotouboua,sotouboua 1,,100,exact,False
+routes_classees,canton,Tabindè,tabinde,tabinde,centrale,sotouboua,sotouboua 1,tabinde,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+routes_classees,commune,Sotouboua 3,sotouboua 3,sotouboua 3,centrale,sotouboua,sotouboua 3,,100,exact,False
+routes_classees,canton,Kazaboua,kazaboua,kazaboua,centrale,sotouboua,sotouboua 3,kazaboua,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+routes_classees,commune,Tchamba 2,tchamba 2,tchamba 2,centrale,tchamba,tchamba 2,,100,exact,False
+routes_classees,canton,Bago,bago,bago,centrale,tchamba,tchamba 2,bago,100,exact,False
+routes_classees,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+routes_classees,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+routes_classees,commune,Tchamba 3,tchamba 3,tchamba 3,centrale,tchamba,tchamba 3,,100,exact,False
+routes_classees,canton,Goubi,goubi,goubi,centrale,tchamba,tchamba 3,goubi,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+routes_classees,commune,Tône 2,tone 2,tone 2,savanes,tone,tone 2,,100,exact,False
+routes_classees,canton,Nanergou,nanergou,nanergou,savanes,tone,tone 2,nanergou,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 1,oti sud 1,oti sud 1,savanes,oti sud,oti sud 1,,100,exact,False
+routes_classees,canton,Mogou,mogou,mogou,savanes,oti sud,oti sud 1,mogou,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti-Sud,oti sud,oti sud,savanes,oti sud,,,100,exact,False
+routes_classees,commune,Oti-Sud 1,oti sud 1,oti sud 1,savanes,oti sud,oti sud 1,,100,exact,False
+routes_classees,canton,Sagbiebou,sagbiebou,sagbiebou,savanes,oti sud,oti sud 1,sagbiebou,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 2,oti 2,oti 2,savanes,oti,oti 2,,100,exact,False
+routes_classees,canton,Galangashie,galangashie,galangashie,savanes,oti,oti 2,galangashie,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+routes_classees,commune,Oti 2,oti 2,oti 2,savanes,oti,oti 2,,100,exact,False
+routes_classees,canton,Barkoissi,barkoissi,barkoissi,savanes,oti,oti 2,barkoissi,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tandjoaré,tandjoare,tandjoare,savanes,tandjoare,,,100,exact,False
+routes_classees,commune,Tandjoaré 1,tandjoare 1,tandjoare 1,savanes,tandjoare,tandjoare 1,,100,exact,False
+routes_classees,canton,Loko,loko,loko,savanes,tandjoare,tandjoare 1,loko,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tandjoaré,tandjoare,tandjoare,savanes,tandjoare,,,100,exact,False
+routes_classees,commune,Tandjoaré 1,tandjoare 1,tandjoare 1,savanes,tandjoare,tandjoare 1,,100,exact,False
+routes_classees,canton,Nandoga,nandoga,nandoga,savanes,tandjoare,tandjoare 1,nandoga,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Tandjoaré,tandjoare,tandjoare,savanes,tandjoare,,,100,exact,False
+routes_classees,commune,Tandjoaré 1,tandjoare 1,tandjoare 1,savanes,tandjoare,tandjoare 1,,100,exact,False
+routes_classees,canton,Bombouaka,bombouaka,bombouaka,savanes,tandjoare,tandjoare 1,bombouaka,100,exact,False
+routes_classees,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+routes_classees,prefecture,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,,,100,exact,False
+routes_classees,commune,Cinkassé 2,cinkasse 2,cinkasse 2,savanes,cinkasse,cinkasse 2,,100,exact,False
+routes_classees,canton,Timbou,timbou,timbou,savanes,cinkasse,cinkasse 2,timbou,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 3,yoto 3,yoto 3,maritime,yoto,yoto 3,,100,exact,False
+routes_classees,canton,Gboto,gboto,gboto,maritime,yoto,yoto 3,gboto,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Akébou,akebou,akebou,plateaux,akebou,,,100,exact,False
+routes_classees,commune,Akébou 1,akebou 1,akebou 1,plateaux,akebou,akebou 1,,100,exact,False
+routes_classees,canton,Kougnohou,kougnohou,kougnohou,plateaux,akebou,akebou 1,kougnohou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 3,amou 3,amou 3,plateaux,amou,amou 3,,100,exact,False
+routes_classees,canton,Okpahoé,okpahoe,okpahoe,plateaux,amou,amou 3,okpahoe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+routes_classees,commune,Amou 3,amou 3,amou 3,plateaux,amou,amou 3,,100,exact,False
+routes_classees,canton,Otadi,otadi,otadi,plateaux,amou,amou 3,otadi,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 1,wawa 1,wawa 1,plateaux,wawa,wawa 1,,100,exact,False
+routes_classees,canton,Tomégbé,tomegbe,tomegbe,plateaux,wawa,wawa 1,tomegbe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 1,wawa 1,wawa 1,plateaux,wawa,wawa 1,,100,exact,False
+routes_classees,canton,Kpété-Béna,kpete bena,kpete bena,plateaux,wawa,wawa 1,kpete bena,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 3,zio 3,zio 3,maritime,zio,zio 3,,100,exact,False
+routes_classees,canton,Agbélouvé,agbelouve,agbelouve,maritime,zio,zio 3,agbelouve,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 3,zio 3,zio 3,maritime,zio,zio 3,,100,exact,False
+routes_classees,canton,Gamé-Sèva,game seva,game seva,maritime,zio,zio 3,,61,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 2,yoto 2,yoto 2,maritime,yoto,yoto 2,,100,exact,False
+routes_classees,canton,Ahépé,ahepe,ahepe,maritime,yoto,yoto 2,ahepe,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+routes_classees,canton,Gbatopé,gbatope,gbatope,maritime,zio,zio 1,gbatope,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 1,yoto 1,yoto 1,maritime,yoto,yoto 1,,100,exact,False
+routes_classees,canton,Tabligbo,tabligbo,tabligbo,maritime,yoto,yoto 1,tabligbo,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 3,vo 3,vo 3,maritime,vo,vo 3,,100,exact,False
+routes_classees,canton,Mome-Hounkpati,mome hounkpati,mome hounkpati,maritime,vo,vo 3,mome hounkpati,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+routes_classees,commune,Vo 3,vo 3,vo 3,maritime,vo,vo 3,,100,exact,False
+routes_classees,canton,Dzrékpo,dzrekpo,dzrekpo,maritime,vo,vo 3,dzrekpo,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 1,yoto 1,yoto 1,maritime,yoto,yoto 1,,100,exact,False
+routes_classees,canton,Amoussimé,amoussime,amoussime,maritime,yoto,yoto 1,amoussime,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+routes_classees,commune,Yoto 3,yoto 3,yoto 3,maritime,yoto,yoto 3,,100,exact,False
+routes_classees,canton,Tokpli,tokpli,tokpli,maritime,yoto,yoto 3,tokpli,100,exact,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+routes_classees,commune,Zio 2,zio 2,zio 2,maritime,zio,zio 2,,100,exact,False
+routes_classees,canton,Bolou,bolou,bolou,maritime,zio,zio 2,bolou,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 3,wawa 3,wawa 3,plateaux,wawa,wawa 3,,100,exact,False
+routes_classees,canton,Ounabé,ounabe,ounabe,plateaux,wawa,wawa 3,ounabe,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 3,wawa 3,wawa 3,plateaux,wawa,wawa 3,,100,exact,False
+routes_classees,canton,Doumé,doume,doume,plateaux,wawa,wawa 3,doume,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 3,wawa 3,wawa 3,plateaux,wawa,wawa 3,,100,exact,False
+routes_classees,canton,Zogbégan,zogbegan,zogbegan,plateaux,wawa,wawa 3,zogbegan,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+routes_classees,commune,Wawa 1,wawa 1,wawa 1,plateaux,wawa,wawa 1,,100,exact,False
+routes_classees,canton,Késsibo,kessibo,kessibo,plateaux,wawa,wawa 1,kessibo,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+routes_classees,commune,Kloto 3,kloto 3,kloto 3,plateaux,kloto,kloto 3,,100,exact,False
+routes_classees,canton,Agomé-Yoh,agome yoh,agome yoh,plateaux,kloto,kloto 3,,71,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 1,ave 1,ave 1,maritime,ave,ave 1,,100,exact,False
+routes_classees,canton,Zolo,zolo,zolo,maritime,ave,ave 1,,88,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Nyogbo-Agbétiko,agou nyogbo agbetiko,agou nyogbo agbetiko,plateaux,agou,agou 1,,60,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Akplolo,agou akplolo,agou akplolo,plateaux,agou,agou 1,agou akplolo,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 2,agou 2,agou 2,plateaux,agou,agou 2,,100,exact,False
+routes_classees,canton,Agotimé-Nord,agotime nord,agotime nord,plateaux,agou,agou 2,agotime nord,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Assahoun-Fiagbé,assahoun fiagbe,assahoun fiagbe,plateaux,agou,agou 1,,82,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 1,ave 1,ave 1,maritime,ave,ave 1,,100,exact,False
+routes_classees,canton,Assahoun,assahoun,assahoun,maritime,ave,ave 1,,76,display_only,False
+routes_classees,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+routes_classees,prefecture,Avé,ave,ave,maritime,ave,,,100,exact,False
+routes_classees,commune,Avé 1,ave 1,ave 1,maritime,ave,ave 1,,100,exact,False
+routes_classees,canton,Ando,ando,ando,maritime,ave,ave 1,,47,display_only,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+routes_classees,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+routes_classees,canton,Agou-Nyogbo-Dzidjole,agou nyogbo dzidjole,agou nyogbo dzidjole,plateaux,agou,agou 1,,60,display_only,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+routes_classees,commune,Kozah 2,kozah 2,kozah 2,kara,kozah,kozah 2,,100,exact,False
+routes_classees,canton,Yadè,yade,yade,kara,kozah,kozah 2,yade,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Kéran,keran,keran,kara,keran,,,100,exact,False
+routes_classees,commune,Kéran 1,keran 1,keran 1,kara,keran,keran 1,,100,exact,False
+routes_classees,canton,Pessidè,pesside,pesside,kara,keran,keran 1,pesside,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 1,doufelgou 1,doufelgou 1,kara,doufelgou,doufelgou 1,,100,exact,False
+routes_classees,canton,Agbandè-Yaka,agbande yaka,agbande yaka,kara,doufelgou,doufelgou 1,agbande yaka,100,exact,False
+routes_classees,region,Kara,kara,kara,kara,,,,100,exact,False
+routes_classees,prefecture,Doufelgou,doufelgou,doufelgou,kara,doufelgou,,,100,exact,False
+routes_classees,commune,Doufelgou 1,doufelgou 1,doufelgou 1,kara,doufelgou,doufelgou 1,,100,exact,False
+routes_classees,canton,Baga,baga,baga,kara,doufelgou,doufelgou 1,baga,100,exact,False
+routes_classees,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+routes_classees,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+routes_classees,commune,Ogou 2,ogou 2,ogou 2,plateaux,ogou,ogou 2,,100,exact,False
+routes_classees,canton,Katoré,katore,katore,plateaux,ogou,ogou 2,katore,100,exact,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Tchaoudjo,tchaoudjo,tchaoudjo,centrale,tchaoudjo,,,100,exact,False
+auto_ecoles,commune,Tchaoudjo 1,tchaoudjo 1,tchaoudjo 1,centrale,tchaoudjo,tchaoudjo 1,,100,exact,False
+auto_ecoles,canton,Sokodè (Komah),sokode komah,sokode komah,centrale,tchaoudjo,tchaoudjo 1,,58,display_only,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+auto_ecoles,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+auto_ecoles,canton,Pagala-Gare,pagala gare,pagala gare,centrale,blitta,blitta 1,pagala gare,100,exact,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Blitta,blitta,blitta,centrale,blitta,,,100,exact,False
+auto_ecoles,commune,Blitta 1,blitta 1,blitta 1,centrale,blitta,blitta 1,,100,exact,False
+auto_ecoles,canton,Blitta,blitta,blitta,centrale,blitta,blitta 1,,70,display_only,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,,,100,exact,False
+auto_ecoles,commune,Sotouboua 1,sotouboua 1,sotouboua 1,centrale,sotouboua,sotouboua 1,,100,exact,False
+auto_ecoles,canton,Sotouboua,sotouboua,sotouboua,centrale,sotouboua,sotouboua 1,sotouboua,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Kpélé,kpele,kpele,plateaux,kpele,,,100,exact,False
+auto_ecoles,commune,Kpélé 1,kpele 1,kpele 1,plateaux,kpele,kpele 1,,100,exact,False
+auto_ecoles,canton,Kpélé-Novivé,kpele novive,kpele novive,plateaux,kpele,kpele 1,kpele novive,100,exact,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+auto_ecoles,commune,Tchamba 1,tchamba 1,tchamba 1,centrale,tchamba,tchamba 1,,100,exact,False
+auto_ecoles,canton,Tchamba,tchamba,tchamba,centrale,tchamba,tchamba 1,tchamba,100,exact,False
+auto_ecoles,region,Centrale,centrale,centrale,centrale,,,,100,exact,False
+auto_ecoles,prefecture,Tchamba,tchamba,tchamba,centrale,tchamba,,,100,exact,False
+auto_ecoles,commune,Tchamba 3,tchamba 3,tchamba 3,centrale,tchamba,tchamba 3,,100,exact,False
+auto_ecoles,canton,Kaboli,kaboli,kaboli,centrale,tchamba,tchamba 3,kaboli,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 3,golfe 3,golfe 3,maritime,golfe,golfe 3,,100,exact,False
+auto_ecoles,canton,Bè-Ouest,be ouest,be ouest,maritime,golfe,golfe 3,,42,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 6,golfe 6,golfe 6,maritime,golfe,golfe 6,,100,exact,False
+auto_ecoles,canton,Baguida,baguida,baguida,maritime,golfe,golfe 6,baguida,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 4,agoe nyive 4,agoe nyive 4,maritime,agoe nyive,agoe nyive 4,,100,exact,False
+auto_ecoles,canton,Togblekope,togblekope,togblekope,maritime,agoe nyive,agoe nyive 4,,60,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 1,agoe nyive 1,agoe nyive 1,maritime,agoe nyive,agoe nyive 1,,100,exact,False
+auto_ecoles,canton,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,agoe nyive 1,,63,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 6,agoe nyive 6,agoe nyive 6,maritime,agoe nyive,agoe nyive 6,,100,exact,False
+auto_ecoles,canton,Adétikopé,adetikope,adetikope,maritime,agoe nyive,agoe nyive 6,,72,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 5,agoe nyive 5,agoe nyive 5,maritime,agoe nyive,agoe nyive 5,,100,exact,False
+auto_ecoles,canton,Sanguera,sanguera,sanguera,maritime,agoe nyive,agoe nyive 5,,72,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 5,golfe 5,golfe 5,maritime,golfe,golfe 5,,100,exact,False
+auto_ecoles,canton,Aflao-Gakli,aflao gakli,aflao gakli,maritime,golfe,golfe 5,aflao gakli,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 2,agoe nyive 2,agoe nyive 2,maritime,agoe nyive,agoe nyive 2,,100,exact,False
+auto_ecoles,canton,Légbassito,legbassito,legbassito,maritime,agoe nyive,agoe nyive 2,legbassito,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Agoè-Nyivé,agoe nyive,agoe nyive,maritime,agoe nyive,,,100,exact,False
+auto_ecoles,commune,Agoè-Nyivé 3,agoe nyive 3,agoe nyive 3,maritime,agoe nyive,agoe nyive 3,,100,exact,False
+auto_ecoles,canton,Vakpossito,vakpossito,vakpossito,maritime,agoe nyive,agoe nyive 3,,40,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 4,golfe 4,golfe 4,maritime,golfe,golfe 4,,100,exact,False
+auto_ecoles,canton,Amoutivé,amoutive,amoutive,maritime,golfe,golfe 4,amoutive,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 7,golfe 7,golfe 7,maritime,golfe,golfe 7,,100,exact,False
+auto_ecoles,canton,Aflao-Sagbado,aflao sagbado,aflao sagbado,maritime,golfe,golfe 7,,70,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 1,golfe 1,golfe 1,maritime,golfe,golfe 1,,100,exact,False
+auto_ecoles,canton,Bè-Est,be est,be est,maritime,golfe,golfe 1,,57,display_only,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Golfe,golfe,golfe,maritime,golfe,,,100,exact,False
+auto_ecoles,commune,Golfe 2,golfe 2,golfe 2,maritime,golfe,golfe 2,,100,exact,False
+auto_ecoles,canton,Bè-Centre,be centre,be centre,maritime,golfe,golfe 2,,30,display_only,False
+auto_ecoles,region,Kara,kara,kara,kara,,,,100,exact,False
+auto_ecoles,prefecture,Kozah,kozah,kozah,kara,kozah,,,100,exact,False
+auto_ecoles,commune,Kozah 1,kozah 1,kozah 1,kara,kozah,kozah 1,,100,exact,False
+auto_ecoles,canton,Commune De Kara,kara,kara,kara,kozah,kozah 1,,50,display_only,False
+auto_ecoles,region,Kara,kara,kara,kara,,,,100,exact,False
+auto_ecoles,prefecture,Assoli,assoli,assoli,kara,assoli,,,100,exact,False
+auto_ecoles,commune,Assoli 1,assoli 1,assoli 1,kara,assoli,assoli 1,,100,exact,False
+auto_ecoles,canton,Bafilo,bafilo,bafilo,kara,assoli,assoli 1,bafilo,100,exact,False
+auto_ecoles,region,Kara,kara,kara,kara,,,,100,exact,False
+auto_ecoles,prefecture,Bassar,bassar,bassar,kara,bassar,,,100,exact,False
+auto_ecoles,commune,Bassar 1,bassar 1,bassar 1,kara,bassar,bassar 1,,100,exact,False
+auto_ecoles,canton,Bassar,bassar,bassar,kara,bassar,bassar 1,bassar,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+auto_ecoles,commune,Lacs 3,lacs 3,lacs 3,maritime,lacs,lacs 3,,100,exact,False
+auto_ecoles,canton,Gbodjomé,gbodjome,gbodjome,maritime,lacs,lacs 3,gbodjome,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+auto_ecoles,commune,Lacs 4,lacs 4,lacs 4,maritime,lacs,lacs 4,,100,exact,False
+auto_ecoles,canton,Anfoin,anfoin,anfoin,maritime,lacs,lacs 4,anfoin,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Zio,zio,zio,maritime,zio,,,100,exact,False
+auto_ecoles,commune,Zio 1,zio 1,zio 1,maritime,zio,zio 1,,100,exact,False
+auto_ecoles,canton,Tsévié,tsevie,tsevie,maritime,zio,zio 1,tsevie,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+auto_ecoles,commune,Lacs 2,lacs 2,lacs 2,maritime,lacs,lacs 2,,100,exact,False
+auto_ecoles,canton,Aklakou,aklakou,aklakou,maritime,lacs,lacs 2,aklakou,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Vo,vo,vo,maritime,vo,,,100,exact,False
+auto_ecoles,commune,Vo 1,vo 1,vo 1,maritime,vo,vo 1,,100,exact,False
+auto_ecoles,canton,Vogan,vogan,vogan,maritime,vo,vo 1,vogan,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Bas-Mono,bas mono,bas mono,maritime,bas mono,,,100,exact,False
+auto_ecoles,commune,Bas-Mono 1,bas mono 1,bas mono 1,maritime,bas mono,bas mono 1,,100,exact,False
+auto_ecoles,canton,Afagnangan,afagnangan,afagnagan,maritime,bas mono,bas mono 1,afagnagan,94,fuzzy,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Lacs,lacs,lacs,maritime,lacs,,,100,exact,False
+auto_ecoles,commune,Lacs 1,lacs 1,lacs 1,maritime,lacs,lacs 1,,100,exact,False
+auto_ecoles,canton,Canton D’Aneho,aneho,aneho,maritime,lacs,lacs 1,aneho,100,exact,False
+auto_ecoles,region,Maritime,maritime,maritime,maritime,,,,100,exact,False
+auto_ecoles,prefecture,Yoto,yoto,yoto,maritime,yoto,,,100,exact,False
+auto_ecoles,commune,Yoto 1,yoto 1,yoto 1,maritime,yoto,yoto 1,,100,exact,False
+auto_ecoles,canton,Tabligbo,tabligbo,tabligbo,maritime,yoto,yoto 1,tabligbo,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Wawa,wawa,wawa,plateaux,wawa,,,100,exact,False
+auto_ecoles,commune,Wawa 1,wawa 1,wawa 1,plateaux,wawa,wawa 1,,100,exact,False
+auto_ecoles,canton,Badou,badou,badou,plateaux,wawa,wawa 1,badou,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+auto_ecoles,commune,Ogou 1,ogou 1,ogou 1,plateaux,ogou,ogou 1,,100,exact,False
+auto_ecoles,canton,Djama,djama,djama,plateaux,ogou,ogou 1,djama,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Amou,amou,amou,plateaux,amou,,,100,exact,False
+auto_ecoles,commune,Amou 2,amou 2,amou 2,plateaux,amou,amou 2,,100,exact,False
+auto_ecoles,canton,Amou-Oblo,amou oblo,amou oblo,plateaux,amou,amou 2,amou oblo,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Anié,anie,anie,plateaux,anie,,,100,exact,False
+auto_ecoles,commune,Anié 1,anie 1,anie 1,plateaux,anie,anie 1,,100,exact,False
+auto_ecoles,canton,Anié,anie,anie,plateaux,anie,anie 1,anie,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Agou,agou,agou,plateaux,agou,,,100,exact,False
+auto_ecoles,commune,Agou 1,agou 1,agou 1,plateaux,agou,agou 1,,100,exact,False
+auto_ecoles,canton,Agou-Tavié,agou tavie,agou tavie,plateaux,agou,agou 1,agou tavie,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Kloto,kloto,kloto,plateaux,kloto,,,100,exact,False
+auto_ecoles,commune,Kloto 1,kloto 1,kloto 1,plateaux,kloto,kloto 1,,100,exact,False
+auto_ecoles,canton,Agome-Kpalime,agome kpalime,agome kpalime,plateaux,kloto,kloto 1,agome kpalime,100,exact,False
+auto_ecoles,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+auto_ecoles,prefecture,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,,,100,exact,False
+auto_ecoles,commune,Cinkassé 1,cinkasse 1,cinkasse 1,savanes,cinkasse,cinkasse 1,,100,exact,False
+auto_ecoles,canton,Cinkassé,cinkasse,cinkasse,savanes,cinkasse,cinkasse 1,cinkasse,100,exact,False
+auto_ecoles,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+auto_ecoles,prefecture,Tône,tone,tone,savanes,tone,,,100,exact,False
+auto_ecoles,commune,Tône 1,tone 1,tone 1,savanes,tone,tone 1,,100,exact,False
+auto_ecoles,canton,Dapaong,dapaong,dapaong,savanes,tone,tone 1,dapaong,100,exact,False
+auto_ecoles,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+auto_ecoles,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+auto_ecoles,commune,Oti 1,oti 1,oti 1,savanes,oti,oti 1,,100,exact,False
+auto_ecoles,canton,Mango,mango,mango,savanes,oti,oti 1,mango,100,exact,False
+auto_ecoles,region,Savanes,savanes,savanes,savanes,,,,100,exact,False
+auto_ecoles,prefecture,Oti,oti,oti,savanes,oti,,,100,exact,False
+auto_ecoles,commune,Oti 2,oti 2,oti 2,savanes,oti,oti 2,,100,exact,False
+auto_ecoles,canton,Barkoissi,barkoissi,barkoissi,savanes,oti,oti 2,barkoissi,100,exact,False
+auto_ecoles,region,Plateaux,plateaux,plateaux,plateaux,,,,100,exact,False
+auto_ecoles,prefecture,Ogou,ogou,ogou,plateaux,ogou,,,100,exact,False
+auto_ecoles,commune,Ogou 1,ogou 1,ogou 1,plateaux,ogou,ogou 1,,100,exact,False
+auto_ecoles,canton,Gnagna,gnagna,gnagna,plateaux,ogou,ogou 1,gnagna,100,exact,False

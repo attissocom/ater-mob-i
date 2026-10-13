@@ -1,0 +1,598 @@
+region,prefecture,commune,canton,population
+centrale,blitta,blitta 1,blitta gare,14067
+centrale,blitta,blitta 1,blitta village,10794
+centrale,blitta,blitta 1,doufouli,2605
+centrale,blitta,blitta 1,pagala gare,23112
+centrale,blitta,blitta 1,tchaloude,9752
+centrale,blitta,blitta 1,waragni,4956
+centrale,blitta,blitta 1,yaloumbe,6253
+centrale,blitta,blitta 2,agbandi,12122
+centrale,blitta,blitta 2,koffiti,10294
+centrale,blitta,blitta 2,langabou,16790
+centrale,blitta,blitta 2,tchare baou,7309
+centrale,blitta,blitta 3,atchintse,4572
+centrale,blitta,blitta 3,diguengue,1523
+centrale,blitta,blitta 3,dikpeleou,2086
+centrale,blitta,blitta 3,katchenke,3255
+centrale,blitta,blitta 3,m poti,6971
+centrale,blitta,blitta 3,pagala village,3554
+centrale,blitta,blitta 3,tchifama,5574
+centrale,blitta,blitta 3,tintchro,4041
+centrale,blitta,blitta 3,welly,10170
+centrale,blitta,blitta 3,yegue,3472
+centrale,mo,mo 1,boulohou,5831
+centrale,mo,mo 1,djarkpanga,19374
+centrale,mo,mo 1,kagnigbara,5317
+centrale,mo,mo 2,saiboude,7696
+centrale,mo,mo 2,tindjassi,14230
+centrale,sotouboua,sotouboua 1,kaniamboua,2190
+centrale,sotouboua,sotouboua 1,sotouboua,37143
+centrale,sotouboua,sotouboua 1,tabinde,7574
+centrale,sotouboua,sotouboua 2,adjengre,21727
+centrale,sotouboua,sotouboua 2,aouda,17291
+centrale,sotouboua,sotouboua 2,fazao,2289
+centrale,sotouboua,sotouboua 2,keriade,3524
+centrale,sotouboua,sotouboua 2,sessaro,12226
+centrale,sotouboua,sotouboua 2,titigbe,7130
+centrale,sotouboua,sotouboua 3,bodjonde,2218
+centrale,sotouboua,sotouboua 3,kazaboua,9347
+centrale,sotouboua,sotouboua 3,tchebebe,16205
+centrale,tchamba,tchamba 1,affem,9263
+centrale,tchamba,tchamba 1,alibi,10324
+centrale,tchamba,tchamba 1,kri kri adjeide,7359
+centrale,tchamba,tchamba 1,larni,7113
+centrale,tchamba,tchamba 1,tchamba,48392
+centrale,tchamba,tchamba 2,bago,36587
+centrale,tchamba,tchamba 2,koussountou,28343
+centrale,tchamba,tchamba 3,balanka,11784
+centrale,tchamba,tchamba 3,goubi,10845
+centrale,tchamba,tchamba 3,kaboli,30575
+centrale,tchaoudjo,tchaoudjo 1,kadambara,23526
+centrale,tchaoudjo,tchaoudjo 1,komah,91606
+centrale,tchaoudjo,tchaoudjo 1,kpangalam,37115
+centrale,tchaoudjo,tchaoudjo 1,kparatao,16588
+centrale,tchaoudjo,tchaoudjo 1,tchalo,8871
+centrale,tchaoudjo,tchaoudjo 2,lama tessi,24891
+centrale,tchaoudjo,tchaoudjo 3,aleheride,6123
+centrale,tchaoudjo,tchaoudjo 3,amaide,4338
+centrale,tchaoudjo,tchaoudjo 3,kemeni,2876
+centrale,tchaoudjo,tchaoudjo 3,kolina,4147
+centrale,tchaoudjo,tchaoudjo 4,agoulou,13714
+centrale,tchaoudjo,tchaoudjo 4,kpassouade,3468
+centrale,tchaoudjo,tchaoudjo 4,wassarabo,3097
+kara,assoli,assoli 1,bafilo,27038
+kara,assoli,assoli 1,boulade,5384
+kara,assoli,assoli 1,dako daoude,7995
+kara,assoli,assoli 2,aledjo,4809
+kara,assoli,assoli 2,koumonde,5124
+kara,assoli,assoli 3,soudou,16044
+kara,bassar,bassar 1,baghan,11814
+kara,bassar,bassar 1,bassar,45846
+kara,bassar,bassar 1,kalanga,7399
+kara,bassar,bassar 2,bangeli,15571
+kara,bassar,bassar 2,bitchabe,7142
+kara,bassar,bassar 2,dimori,13763
+kara,bassar,bassar 3,kabou,26604
+kara,bassar,bassar 3,manga,7269
+kara,bassar,bassar 4,sanda afohou,6015
+kara,bassar,bassar 4,sanda kagbanda,10642
+kara,binah,binah 1,boufale,5801
+kara,binah,binah 1,lama dessi,3932
+kara,binah,binah 1,pagouda,16870
+kara,binah,binah 1,pessare,6329
+kara,binah,binah 1,pitikita,1484
+kara,binah,binah 1,solla,9623
+kara,binah,binah2,kemerida,7182
+kara,binah,binah2,ketao,25809
+kara,binah,binah2,sirka,7169
+kara,dankpen,dankpen 1,guerin kouka,48399
+kara,dankpen,dankpen 1,katchamba,9121
+kara,dankpen,dankpen 1,koulfiekou,9518
+kara,dankpen,dankpen 1,nampoch,9256
+kara,dankpen,dankpen 2,koutchitcheou,3742
+kara,dankpen,dankpen 2,namon,9389
+kara,dankpen,dankpen 2,natchibore,11741
+kara,dankpen,dankpen 2,natchitikpi,7844
+kara,dankpen,dankpen 3,bapure,25428
+kara,dankpen,dankpen 3,kidjaboun,18857
+kara,dankpen,dankpen 3,nandouta,14114
+kara,dankpen,dankpen 3,naware,18253
+kara,doufelgou,doufelgou 1,agbande yaka,8915
+kara,doufelgou,doufelgou 1,baga,5905
+kara,doufelgou,doufelgou 1,koka,3433
+kara,doufelgou,doufelgou 1,massedena,3747
+kara,doufelgou,doufelgou 1,niamtougou,6433
+kara,doufelgou,doufelgou 1,pouda,3137
+kara,doufelgou,doufelgou 1,siou,8910
+kara,doufelgou,doufelgou 1,tenega,4303
+kara,doufelgou,doufelgou 2,anima,1092
+kara,doufelgou,doufelgou 2,defale,6938
+kara,doufelgou,doufelgou 2,kpaha,3692
+kara,doufelgou,doufelgou 3,alloum,10239
+kara,doufelgou,doufelgou 3,kadjalla,9835
+kara,doufelgou,doufelgou 3,leon,4206
+kara,doufelgou,doufelgou 3,tchore,3982
+kara,keran,keran 1,akponte,8877
+kara,keran,keran 1,kande,26266
+kara,keran,keran 1,pesside,9256
+kara,keran,keran 2,atalote,17429
+kara,keran,keran 2,helota,16034
+kara,keran,keran 2,ossacre,19842
+kara,keran,keran 3,koutougou,4790
+kara,keran,keran 3,nadoba,19878
+kara,keran,keran 3,warengo,6315
+kara,kozah,kozah 1,lama,161176
+kara,kozah,kozah 1,landa,10176
+kara,kozah,kozah 1,lassa,12999
+kara,kozah,kozah 1,soumdina,9274
+kara,kozah,kozah 2,bohou,6739
+kara,kozah,kozah 2,koumea,7489
+kara,kozah,kozah 2,pya,11398
+kara,kozah,kozah 2,sarakawa,6049
+kara,kozah,kozah 2,tchare,2301
+kara,kozah,kozah 2,tchitchao,7427
+kara,kozah,kozah 2,yade,4301
+kara,kozah,kozah 3,awandjelo,12147
+kara,kozah,kozah 3,kpinzinde,11608
+kara,kozah,kozah 4,atchangbade,16876
+kara,kozah,kozah 4,djamde,3778
+maritime,agoe nyive,agoe nyive 1,adjougba,4316
+maritime,agoe nyive,agoe nyive 1,adouiko,19470
+maritime,agoe nyive,agoe nyive 1,ahongakope assiyeye,5188
+maritime,agoe nyive,agoe nyive 1,anokui,2197
+maritime,agoe nyive,agoe nyive 1,anokui kome kope,1896
+maritime,agoe nyive,agoe nyive 1,anokui nogo,13384
+maritime,agoe nyive,agoe nyive 1,anome gbonve,9735
+maritime,agoe nyive,agoe nyive 1,anomegble,9152
+maritime,agoe nyive,agoe nyive 1,apegnigbi,7222
+maritime,agoe nyive,agoe nyive 1,apelebuime,847
+maritime,agoe nyive,agoe nyive 1,atsanve,8216
+maritime,agoe nyive,agoe nyive 1,azogbegan,5347
+maritime,agoe nyive,agoe nyive 1,dara kope,3818
+maritime,agoe nyive,agoe nyive 1,demakpoe,22858
+maritime,agoe nyive,agoe nyive 1,djigble,11680
+maritime,agoe nyive,agoe nyive 1,fiovi,10202
+maritime,agoe nyive,agoe nyive 1,gnamassigan,6893
+maritime,agoe nyive,agoe nyive 1,houmbi,6410
+maritime,agoe nyive,agoe nyive 1,houmbigble,4267
+maritime,agoe nyive,agoe nyive 1,kelegougan digble,6216
+maritime,agoe nyive,agoe nyive 1,kitidjan,12957
+maritime,agoe nyive,agoe nyive 1,kleve,6081
+maritime,agoe nyive,agoe nyive 1,kleve apenyigbe,3970
+maritime,agoe nyive,agoe nyive 1,kleve assiyeye,9314
+maritime,agoe nyive,agoe nyive 1,kove apelebuime,2627
+maritime,agoe nyive,agoe nyive 1,kpatefi adidodokpo,2252
+maritime,agoe nyive,agoe nyive 1,logope,6101
+maritime,agoe nyive,agoe nyive 1,logope atsanve,5630
+maritime,agoe nyive,agoe nyive 1,logope kpatefi,14966
+maritime,agoe nyive,agoe nyive 1,nyavime aveyime,6259
+maritime,agoe nyive,agoe nyive 1,nyiveme + apelebuime,4727
+maritime,agoe nyive,agoe nyive 1,sogbossito,11798
+maritime,agoe nyive,agoe nyive 1,sogbossito aziale kope,1942
+maritime,agoe nyive,agoe nyive 1,telessou adokpo kope,10808
+maritime,agoe nyive,agoe nyive 1,telessou agbodeka kope,9670
+maritime,agoe nyive,agoe nyive 1,togome,23145
+maritime,agoe nyive,agoe nyive 1,totsi klevegble,4261
+maritime,agoe nyive,agoe nyive 1,totsi kpatefi,6826
+maritime,agoe nyive,agoe nyive 1,totsi nyiveme,14607
+maritime,agoe nyive,agoe nyive 2,agossito,2914
+maritime,agoe nyive,agoe nyive 2,ahonkpoe,16467
+maritime,agoe nyive,agoe nyive 2,amadenta anagli kope,2188
+maritime,agoe nyive,agoe nyive 2,amedenta aki kope,3191
+maritime,agoe nyive,agoe nyive 2,assiko,2268
+maritime,agoe nyive,agoe nyive 2,athieme,8384
+maritime,agoe nyive,agoe nyive 2,athieme ahonkpoe,8104
+maritime,agoe nyive,agoe nyive 2,avinato,3504
+maritime,agoe nyive,agoe nyive 2,bokpoko,1289
+maritime,agoe nyive,agoe nyive 2,daliko,16109
+maritime,agoe nyive,agoe nyive 2,dalime,1456
+maritime,agoe nyive,agoe nyive 2,douthe kope,2215
+maritime,agoe nyive,agoe nyive 2,kove ahondji kope,11917
+maritime,agoe nyive,agoe nyive 2,kove sivagnon kope,9065
+maritime,agoe nyive,agoe nyive 2,kpokplovime,8232
+maritime,agoe nyive,agoe nyive 2,legbassito,13516
+maritime,agoe nyive,agoe nyive 2,madjikpeto,6446
+maritime,agoe nyive,agoe nyive 2,silivi kope ou adidome,4767
+maritime,agoe nyive,agoe nyive 2,yohonou,1577
+maritime,agoe nyive,agoe nyive 2,zovadjin,4555
+maritime,agoe nyive,agoe nyive 3,atsanve,8969
+maritime,agoe nyive,agoe nyive 3,awoudja kope,24218
+maritime,agoe nyive,agoe nyive 3,elavanyo atsanve,7707
+maritime,agoe nyive,agoe nyive 3,elavanyo kleve,2714
+maritime,agoe nyive,agoe nyive 3,hossoukope,3946
+maritime,agoe nyive,agoe nyive 4,akoin,11373
+maritime,agoe nyive,agoe nyive 4,alinka,7961
+maritime,agoe nyive,agoe nyive 4,alinka nyivemegble,4932
+maritime,agoe nyive,agoe nyive 4,atsanve,1566
+maritime,agoe nyive,agoe nyive 4,aveyime,889
+maritime,agoe nyive,agoe nyive 4,bokor kope,19051
+maritime,agoe nyive,agoe nyive 4,degome,11166
+maritime,agoe nyive,agoe nyive 4,dikame,16203
+maritime,agoe nyive,agoe nyive 4,djeledzi,16076
+maritime,agoe nyive,agoe nyive 4,fidokpui,15097
+maritime,agoe nyive,agoe nyive 4,guenou kope,14383
+maritime,agoe nyive,agoe nyive 4,haoussa zongo,12509
+maritime,agoe nyive,agoe nyive 4,kotokoli zonzo,11492
+maritime,agoe nyive,agoe nyive 4,kpedevi kope,3897
+maritime,agoe nyive,agoe nyive 4,togble centre,5839
+maritime,agoe nyive,agoe nyive 4,towouganou,1997
+maritime,agoe nyive,agoe nyive 5,afiadegnigba,4257
+maritime,agoe nyive,agoe nyive 5,agbleliko,2736
+maritime,agoe nyive,agoe nyive 5,anyigbe,4799
+maritime,agoe nyive,agoe nyive 5,assigome,2500
+maritime,agoe nyive,agoe nyive 5,atigan cope,7627
+maritime,agoe nyive,agoe nyive 5,dangbessito,8307
+maritime,agoe nyive,agoe nyive 5,dekpo sanguera,3803
+maritime,agoe nyive,agoe nyive 5,ezion kope,2065
+maritime,agoe nyive,agoe nyive 5,kleme sanguera,6085
+maritime,agoe nyive,agoe nyive 5,klikame,5287
+maritime,agoe nyive,agoe nyive 5,kohe,12626
+maritime,agoe nyive,agoe nyive 5,kopegan,5346
+maritime,agoe nyive,agoe nyive 5,logogome,4263
+maritime,agoe nyive,agoe nyive 5,nanegbe,8238
+maritime,agoe nyive,agoe nyive 5,nanegbe zossime,7388
+maritime,agoe nyive,agoe nyive 5,sanyrako,10285
+maritime,agoe nyive,agoe nyive 5,taga kope,5046
+maritime,agoe nyive,agoe nyive 5,tsrokpossime,6798
+maritime,agoe nyive,agoe nyive 5,vogome,5144
+maritime,agoe nyive,agoe nyive 5,zopomahe,12497
+maritime,agoe nyive,agoe nyive 6,adetikope centre,18033
+maritime,agoe nyive,agoe nyive 6,adoglove,4303
+maritime,agoe nyive,agoe nyive 6,agnave,7312
+maritime,agoe nyive,agoe nyive 6,agotime,3824
+maritime,agoe nyive,agoe nyive 6,devime,10545
+maritime,agoe nyive,agoe nyive 6,dzove,6202
+maritime,agoe nyive,agoe nyive 6,kladjeme,8624
+maritime,agoe nyive,agoe nyive 6,kpokpome agute,27993
+maritime,agoe nyive,agoe nyive 6,kpotave,11064
+maritime,agoe nyive,agoe nyive 6,lomenyo kope,4195
+maritime,agoe nyive,agoe nyive 6,tonoukouti,4862
+maritime,agoe nyive,agoe nyive 6,tsikplonou kondji,3237
+maritime,ave,ave 1,assahoun ando,40644
+maritime,ave,ave 1,dzolo,8101
+maritime,ave,ave 1,edzi,1832
+maritime,ave,ave 1,keve,11735
+maritime,ave,ave 1,tovegan,12732
+maritime,ave,ave 2,akepe,16961
+maritime,ave,ave 2,badja,9413
+maritime,ave,ave 2,noepe,9796
+maritime,bas mono,bas mono 1,afagnagan,19478
+maritime,bas mono,bas mono 1,afagnan,15929
+maritime,bas mono,bas mono 1,agome glozou,7254
+maritime,bas mono,bas mono 1,kpetsou,12721
+maritime,bas mono,bas mono 2,agbetiko,4087
+maritime,bas mono,bas mono 2,attitogon,31288
+maritime,bas mono,bas mono 2,hompou,4103
+maritime,golfe,golfe 1,ablogame,8155
+maritime,golfe,golfe 1,adakpame,35094
+maritime,golfe,golfe 1,akodessewa,6521
+maritime,golfe,golfe 1,akodessewa kponou,14510
+maritime,golfe,golfe 1,akodessewa kpota,11683
+maritime,golfe,golfe 1,anfame,62588
+maritime,golfe,golfe 1,antonio netime,1564
+maritime,golfe,golfe 1,atiegou1,19315
+maritime,golfe,golfe 1,be,10815
+maritime,golfe,golfe 1,be ahligo,6339
+maritime,golfe,golfe 1,be apeyeme,12253
+maritime,golfe,golfe 1,be hedje,11686
+maritime,golfe,golfe 1,be kpehenou,6569
+maritime,golfe,golfe 1,be kpota,41682
+maritime,golfe,golfe 1,gbenyedji,11299
+maritime,golfe,golfe 1,kanyikope,26457
+maritime,golfe,golfe 1,kelegougan1,13145
+maritime,golfe,golfe 1,klobateme,6852
+maritime,golfe,golfe 1,kotokou kondji,4044
+maritime,golfe,golfe 1,n tifafa kome,4539
+maritime,golfe,golfe 1,souza netime,17147
+maritime,golfe,golfe 1,wete,11088
+maritime,golfe,golfe 1,zone portuaire,8205
+maritime,golfe,golfe 2,atiegou 2,26975
+maritime,golfe,golfe 2,hedzranawoe,51637
+maritime,golfe,golfe 2,kelegougan 2,14240
+maritime,golfe,golfe 2,saint joseph,5778
+maritime,golfe,golfe 2,tokoin aeroport,189
+maritime,golfe,golfe 2,tokoin forever,2898
+maritime,golfe,golfe 2,tokoin n kafu,11864
+maritime,golfe,golfe 2,tokoin tame,4187
+maritime,golfe,golfe 2,tokoin wuiti,18385
+maritime,golfe,golfe 3,doumassesse,20792
+maritime,golfe,golfe 3,gbonvie,6534
+maritime,golfe,golfe 3,kelegougan 3,762
+maritime,golfe,golfe 3,lome ii,10902
+maritime,golfe,golfe 3,residence du benin,1101
+maritime,golfe,golfe 3,tokoin elavagnon,7273
+maritime,golfe,golfe 3,tokoin lycee,3248
+maritime,golfe,golfe 3,universite de lome,2157
+maritime,golfe,golfe 4,abobokome,1432
+maritime,golfe,golfe 4,above,5000
+maritime,golfe,golfe 4,adawlato,132
+maritime,golfe,golfe 4,adoboukome,2003
+maritime,golfe,golfe 4,agbadahonou,534
+maritime,golfe,golfe 4,aguiakome,3499
+maritime,golfe,golfe 4,akossombo,3742
+maritime,golfe,golfe 4,amoutive,5344
+maritime,golfe,golfe 4,bassadji,2230
+maritime,golfe,golfe 4,be klikame,8950
+maritime,golfe,golfe 4,beniglato,3051
+maritime,golfe,golfe 4,casablanca,1993
+maritime,golfe,golfe 4,dogbeavou,10365
+maritime,golfe,golfe 4,doulassame,8328
+maritime,golfe,golfe 4,freau jardin,715
+maritime,golfe,golfe 4,hanoukope,2806
+maritime,golfe,golfe 4,kodjoviakope,14848
+maritime,golfe,golfe 4,koketime,642
+maritime,golfe,golfe 4,lom nava,9413
+maritime,golfe,golfe 4,nyekonakpoe,22100
+maritime,golfe,golfe 4,octaviono netime,5562
+maritime,golfe,golfe 4,quartier administratif,3421
+maritime,golfe,golfe 4,sanguera,956
+maritime,golfe,golfe 4,tokoin gbadago,11883
+maritime,golfe,golfe 4,tokoin hopital,6256
+maritime,golfe,golfe 4,tokoin ouest,9451
+maritime,golfe,golfe 4,tokoin solidarite,9810
+maritime,golfe,golfe 4,wetrivi kondji,1376
+maritime,golfe,golfe 5,adidoadin,6394
+maritime,golfe,golfe 5,aflao gakli,17108
+maritime,golfe,golfe 5,agbalepedogan,22076
+maritime,golfe,golfe 5,amadahome,15647
+maritime,golfe,golfe 5,anyigbe,6313
+maritime,golfe,golfe 5,apedokoe,14800
+maritime,golfe,golfe 5,avedji telessou,31612
+maritime,golfe,golfe 5,avenou batome,4829
+maritime,golfe,golfe 5,soviepe,11021
+maritime,golfe,golfe 5,teshie,3087
+maritime,golfe,golfe 5,totsi,25559
+maritime,golfe,golfe 5,wessome,11547
+maritime,golfe,golfe 6,adamavo,56103
+maritime,golfe,golfe 6,agodeke,19101
+maritime,golfe,golfe 6,avepozo,15685
+maritime,golfe,golfe 6,baguida,46017
+maritime,golfe,golfe 6,devego,26711
+maritime,golfe,golfe 6,kpogan,17944
+maritime,golfe,golfe 7,ablogome,4167
+maritime,golfe,golfe 7,agotime,6442
+maritime,golfe,golfe 7,akato avoeme,7336
+maritime,golfe,golfe 7,akato deme,5146
+maritime,golfe,golfe 7,akato viepe,13497
+maritime,golfe,golfe 7,apedokoe agokpanou,13316
+maritime,golfe,golfe 7,apedokoe gbomame,19660
+maritime,golfe,golfe 7,awatame,20349
+maritime,golfe,golfe 7,dekpor wougome dekpor,3648
+maritime,golfe,golfe 7,gblenkomegan,12769
+maritime,golfe,golfe 7,kleme agokpanou,13068
+maritime,golfe,golfe 7,kleme yewepe,14823
+maritime,golfe,golfe 7,lankouvi,6102
+maritime,golfe,golfe 7,lankouvi sakani,10253
+maritime,golfe,golfe 7,logote,26035
+maritime,golfe,golfe 7,sagbado,8274
+maritime,golfe,golfe 7,sagbado assiyeye,8195
+maritime,golfe,golfe 7,sagbado zanvi,5754
+maritime,golfe,golfe 7,segbe douane,10154
+maritime,golfe,golfe 7,segbegan,4865
+maritime,golfe,golfe 7,wonyome,4105
+maritime,golfe,golfe 7,wougome,11509
+maritime,golfe,golfe 7,yokoe agblegan,23494
+maritime,golfe,golfe 7,yokoe kopegan,4852
+maritime,lacs,lacs 1,aneho,28237
+maritime,lacs,lacs 1,glidji,24757
+maritime,lacs,lacs 2,agouegan,11825
+maritime,lacs,lacs 2,aklakou,31030
+maritime,lacs,lacs 3,agbodrafo,35262
+maritime,lacs,lacs 3,gbodjome,72914
+maritime,lacs,lacs 4,anfoin,17172
+maritime,lacs,lacs 4,fiata,8988
+maritime,lacs,lacs 4,ganave,11062
+maritime,vo,vo 1,vo koutime,24190
+maritime,vo,vo 1,vogan,64675
+maritime,vo,vo 2,anyron kope,6143
+maritime,vo,vo 2,togoville,18253
+maritime,vo,vo 3,dagbati,18206
+maritime,vo,vo 3,dzrekpo,29687
+maritime,vo,vo 3,mome hounkpati,16758
+maritime,vo,vo 4,akoumape,19187
+maritime,vo,vo 4,hahotoe,14393
+maritime,vo,vo 4,sevagan,12919
+maritime,yoto,yoto 1,amoussime,12720
+maritime,yoto,yoto 1,kini kondji,5465
+maritime,yoto,yoto 1,kouve,21986
+maritime,yoto,yoto 1,tabligbo,37182
+maritime,yoto,yoto 2,ahepe,18138
+maritime,yoto,yoto 2,tchekpo,14591
+maritime,yoto,yoto 2,zafi,10683
+maritime,yoto,yoto 3,esse godjin,7897
+maritime,yoto,yoto 3,gboto,13168
+maritime,yoto,yoto 3,sedome,9955
+maritime,yoto,yoto 3,tokpli,13998
+maritime,yoto,yoto 3,tomety kondji,9068
+maritime,zio,zio 1,abobo,40622
+maritime,zio,zio 1,dalave,24596
+maritime,zio,zio 1,davie,40518
+maritime,zio,zio 1,djagble,65455
+maritime,zio,zio 1,gbatope,26317
+maritime,zio,zio 1,gblainvie,9225
+maritime,zio,zio 1,kpome,18991
+maritime,zio,zio 1,tsevie,81568
+maritime,zio,zio 2,bolou,12878
+maritime,zio,zio 2,kovie,20834
+maritime,zio,zio 2,mission tove,56794
+maritime,zio,zio 2,wli,5687
+maritime,zio,zio 3,agbelouve,50219
+maritime,zio,zio 3,game,17624
+maritime,zio,zio 4,gape centre,20215
+maritime,zio,zio 4,gape kpodji,8489
+plateaux,agou,agou 1,adjahun fiagbe,2934
+plateaux,agou,agou 1,agou akplolo,2609
+plateaux,agou,agou 1,agou atigbe,1845
+plateaux,agou,agou 1,agou kebo,2708
+plateaux,agou,agou 1,agou tavie,9019
+plateaux,agou,agou 1,agou yiboe,2894
+plateaux,agou,agou 1,gadja,20634
+plateaux,agou,agou 1,kati,8231
+plateaux,agou,agou 1,nyogbo nord nyogbo sud,7454
+plateaux,agou,agou 2,adzakpa,7436
+plateaux,agou,agou 2,agotime nord,8332
+plateaux,agou,agou 2,amoussou kope,11697
+plateaux,akebou,akebou 1,djon,13562
+plateaux,akebou,akebou 1,gbende,6071
+plateaux,akebou,akebou 1,kougnohou,13718
+plateaux,akebou,akebou 1,vhe,5315
+plateaux,akebou,akebou 1,yalla,5530
+plateaux,akebou,akebou 2,kamina,14632
+plateaux,akebou,akebou 2,kpalave,6989
+plateaux,akebou,akebou 2,seregbene,8013
+plateaux,amou,amou 1,adiva,1158
+plateaux,amou,amou 1,imle,4806
+plateaux,amou,amou 1,ouma amlame,13782
+plateaux,amou,amou 2,amou oblo,19923
+plateaux,amou,amou 2,ekpegnon,6098
+plateaux,amou,amou 2,kpategan,10075
+plateaux,amou,amou 2,sodo,3920
+plateaux,amou,amou 3,avedje itadi,3116
+plateaux,amou,amou 3,evou,4893
+plateaux,amou,amou 3,game,7377
+plateaux,amou,amou 3,hiheatro,23330
+plateaux,amou,amou 3,okpahoe,1247
+plateaux,amou,amou 3,otadi,5421
+plateaux,amou,amou 3,temedja,9026
+plateaux,anie,anie 1,anie,78455
+plateaux,anie,anie 1,kolo kope,14918
+plateaux,anie,anie 1,pallakoko,7372
+plateaux,anie,anie 2,adogbenou,37998
+plateaux,anie,anie 2,atchinedji,18000
+plateaux,anie,anie 2,glitto,23415
+plateaux,danyi,danyi 1+danyi 2,ahlon,4423
+plateaux,danyi,danyi 1+danyi 2,danyi atigba danyi elavanyo,22125
+plateaux,danyi,danyi 1+danyi 2,danyi kakpa,8891
+plateaux,danyi,danyi 1+danyi 2,danyi kpeto evita,3558
+plateaux,danyi,danyi 1+danyi 2,yikpa,1243
+plateaux,est mono,est mono 1,elavagnon,25016
+plateaux,est mono,est mono 1,gbadjahe,9636
+plateaux,est mono,est mono 2,badin,26879
+plateaux,est mono,est mono 2,kamina,25692
+plateaux,est mono,est mono 2,moretan,49295
+plateaux,est mono,est mono 3,kpessi,11910
+plateaux,est mono,est mono 3,nyamassila,16032
+plateaux,haho,haho 1,atchave,25560
+plateaux,haho,haho 1,dalia,16372
+plateaux,haho,haho 1,hahomegbe,19014
+plateaux,haho,haho 1,notse,58983
+plateaux,haho,haho 2,asrama,50994
+plateaux,haho,haho 2,djemegni,31513
+plateaux,haho,haho 3,akpakpakpe,12369
+plateaux,haho,haho 3,kpedome,46326
+plateaux,haho,haho 4,ayito,7262
+plateaux,haho,haho 4,wahala,36703
+plateaux,kloto,kloto 1,agome kpalime,87478
+plateaux,kloto,kloto 1,gbalave,2304
+plateaux,kloto,kloto 1,hanyigba,4455
+plateaux,kloto,kloto 1,kpadape wome,11953
+plateaux,kloto,kloto 1,tome,3287
+plateaux,kloto,kloto 1,tove,5662
+plateaux,kloto,kloto 1,yokele,3248
+plateaux,kloto,kloto 2,kpime,7225
+plateaux,kloto,kloto 2,lavie lavie apedome,8941
+plateaux,kloto,kloto 3,agome,1785
+plateaux,kloto,kloto 3,agome tomegbe,2833
+plateaux,kloto,kloto 3,kouma,6815
+plateaux,kpele,kpele 1,akata,7655
+plateaux,kpele,kpele 1,kpele dawlotou,11004
+plateaux,kpele,kpele 1,kpele govie,4629
+plateaux,kpele,kpele 1,kpele novive,29987
+plateaux,kpele,kpele 2,kpele centre goudeve,7262
+plateaux,kpele,kpele 2,kpele dutoe,3573
+plateaux,kpele,kpele 2,kpele gbaladze,3325
+plateaux,kpele,kpele 2,kpele kame,5966
+plateaux,kpele,kpele 2,kpele nord,7538
+plateaux,moyen mono,moyen mono 1,ahassome,9928
+plateaux,moyen mono,moyen mono 1,tado,18476
+plateaux,moyen mono,moyen mono 1,tohoun,18393
+plateaux,moyen mono,moyen mono 2,katome,8105
+plateaux,moyen mono,moyen mono 2,kpekpleme,22135
+plateaux,moyen mono,moyen mono 2,saligbe,13468
+plateaux,ogou,ogou 1,djama,45885
+plateaux,ogou,ogou 1,gnagna,60222
+plateaux,ogou,ogou 1,woudou,10194
+plateaux,ogou,ogou 2,akpare,27467
+plateaux,ogou,ogou 2,datcha,15180
+plateaux,ogou,ogou 2,katore,13635
+plateaux,ogou,ogou 3,glei,51836
+plateaux,ogou,ogou 4,ountivou,29048
+plateaux,wawa,wawa 1,badou,20144
+plateaux,wawa,wawa 1,kessibo,10490
+plateaux,wawa,wawa 1,kpete bena,11769
+plateaux,wawa,wawa 1,tomegbe,8784
+plateaux,wawa,wawa 2,eketo gbandi n kougna gobe,20414
+plateaux,wawa,wawa 3,doume,4642
+plateaux,wawa,wawa 3,klabe efoukpa,5903
+plateaux,wawa,wawa 3,okou,4765
+plateaux,wawa,wawa 3,ounabe,3477
+plateaux,wawa,wawa 3,zogbegan,10912
+savanes,cinkasse,cinkasse 1,boade,7403
+savanes,cinkasse,cinkasse 1,cinkasse,63226
+savanes,cinkasse,cinkasse 1,gnoaga,1656
+savanes,cinkasse,cinkasse 1,gouloungoussi,3707
+savanes,cinkasse,cinkasse 2,biankouri,11757
+savanes,cinkasse,cinkasse 2,nadjoundi,10140
+savanes,cinkasse,cinkasse 2,sam naba,9361
+savanes,cinkasse,cinkasse 2,timbou,21709
+savanes,kpendjal,kpendjal 1,koundjoare,17926
+savanes,kpendjal,kpendjal 1,mandouri,20616
+savanes,kpendjal,kpendjal 1,tambigou,9361
+savanes,kpendjal,kpendjal 2,borgou,40462
+savanes,kpendjal ouest,kpendjal ouest 1,naki est,24761
+savanes,kpendjal ouest,kpendjal ouest 1,nayega,19235
+savanes,kpendjal ouest,kpendjal ouest 1,ogaro,12463
+savanes,kpendjal ouest,kpendjal ouest 2,namoundjoga,17896
+savanes,kpendjal ouest,kpendjal ouest 2,papri,14818
+savanes,kpendjal ouest,kpendjal ouest 2,pogno,15448
+savanes,kpendjal ouest,kpendjal ouest 2,tambonga,18709
+savanes,oti,oti 1,fare,4576
+savanes,oti,oti 1,mango,41803
+savanes,oti,oti 1,sadori,8100
+savanes,oti,oti 2,barkoissi,21060
+savanes,oti,oti 2,galangashie,14810
+savanes,oti,oti 2,loko,5919
+savanes,oti,oti 2,nagbeni,19607
+savanes,oti,oti 2,tchanaga,8973
+savanes,oti sud,oti sud 1,gando,41374
+savanes,oti sud,oti sud 1,mogou,30442
+savanes,oti sud,oti sud 1,sagbiebou,20370
+savanes,oti sud,oti sud 1,tchamonga,13866
+savanes,oti sud,oti sud 2,koumongou,7167
+savanes,oti sud,oti sud 2,kountoire,13450
+savanes,oti sud,oti sud 2,nali,11284
+savanes,oti sud,oti sud 2,takpamba,12423
+savanes,tandjoare,tandjoare 1,bogou,10506
+savanes,tandjoare,tandjoare 1,bombouaka,10769
+savanes,tandjoare,tandjoare 1,boulogou,6101
+savanes,tandjoare,tandjoare 1,goundoga,6348
+savanes,tandjoare,tandjoare 1,loko,6187
+savanes,tandjoare,tandjoare 1,nandoga,6334
+savanes,tandjoare,tandjoare 1,pligou,7042
+savanes,tandjoare,tandjoare 1,tamongue,21405
+savanes,tandjoare,tandjoare 2,bagou,2390
+savanes,tandjoare,tandjoare 2,doukpergou,7026
+savanes,tandjoare,tandjoare 2,lokpano,6025
+savanes,tandjoare,tandjoare 2,mamprougou,6331
+savanes,tandjoare,tandjoare 2,nano,17093
+savanes,tandjoare,tandjoare 2,sangou,2620
+savanes,tandjoare,tandjoare 2,sissiak,8343
+savanes,tandjoare,tandjoare 2,tampialime,14347
+savanes,tone,tone 1,bidjenga,10646
+savanes,tone,tone 1,dapaong,144711
+savanes,tone,tone 1,kourientre,12224
+savanes,tone,tone 1,natigou,11234
+savanes,tone,tone 1,pana,13279
+savanes,tone,tone 1,poissongui,6155
+savanes,tone,tone 1,toaga,13494
+savanes,tone,tone 2,naki ouest,24016
+savanes,tone,tone 2,namare,12103
+savanes,tone,tone 2,nanergou,14060
+savanes,tone,tone 3,lotogou,14432
+savanes,tone,tone 3,nioukpourma,17991
+savanes,tone,tone 3,tami,20619
+savanes,tone,tone 3,warkambou,7234
+savanes,tone,tone 4,kantindi,14016
+savanes,tone,tone 4,korbongou,25609
+savanes,tone,tone 4,louanga,11434
+savanes,tone,tone 4,sanfatoute,15518

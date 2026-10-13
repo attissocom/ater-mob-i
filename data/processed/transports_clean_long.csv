@@ -1,0 +1,210 @@
+annee,indicateur,slug,unite,valeur
+2010,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,50.0
+2011,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,127.200902934537
+2012,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,128.364552180072
+2013,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,82.9774158856967
+2014,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,80.8217124006598
+2015,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,41.7117776152158
+2016,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,76.9768769626035
+2017,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,72.1788799108387
+2018,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,79.0805223068553
+2019,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,71.7587672688629
+2020,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,92.5253049571762
+2021,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,93.7357342125285
+2022,Accidents mortels /100.000 hab,accidents_mortels_100k,Nombre,92.7305522155647
+2014,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,51134.0
+2015,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,65599.0
+2016,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,45341.0
+2017,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,41187.0
+2018,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,43063.0
+2019,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,54873.0
+2020,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,44850.0
+2021,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,65363.0
+2022,Evolution des deux roues et assimilées immatriculées,deux_roues_immat,Nombre,67639.0
+2003,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,1014115.0
+2004,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,1148892.0
+2005,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,1084872.0
+2006,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,806453.0
+2007,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,639141.0
+2008,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,586191.0
+2009,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,631664.0
+2010,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,4980.46
+2011,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,156995.56
+2012,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,267995.0
+2013,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,332273.0
+2014,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,522039.0
+2015,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,1045258.0
+2016,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,1045361.0
+2017,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,885809.0
+2018,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,605721.0
+2019,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,577970.0
+2020,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,654821.0
+2021,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,730487.0
+2022,Evolution du volume de tonne de marchandises transportées par rails,fret_rail,tonne,615406.0
+2007,Evolution du volume de fret routier,fret_routier,tonne,242091.879
+2008,Evolution du volume de fret routier,fret_routier,tonne,247436.947
+2009,Evolution du volume de fret routier,fret_routier,tonne,255872.26
+2010,Evolution du volume de fret routier,fret_routier,tonne,416810.525
+2011,Evolution du volume de fret routier,fret_routier,tonne,406582.0
+2012,Evolution du volume de fret routier,fret_routier,tonne,710282.0
+2013,Evolution du volume de fret routier,fret_routier,tonne,448040.0
+2014,Evolution du volume de fret routier,fret_routier,tonne,745720.0
+2015,Evolution du volume de fret routier,fret_routier,tonne,477880.0
+2016,Evolution du volume de fret routier,fret_routier,tonne,4892882.68
+2017,Evolution du volume de fret routier,fret_routier,tonne,1884540.4
+2018,Evolution du volume de fret routier,fret_routier,tonne,2783597.58
+2019,Evolution du volume de fret routier,fret_routier,tonne,8612514.94000001
+2020,Evolution du volume de fret routier,fret_routier,tonne,9840241.73999999
+2021,Evolution du volume de fret routier,fret_routier,tonne,9609484.18000001
+2022,Evolution du volume de fret routier,fret_routier,tonne,10953361.14
+2010,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,3101.0
+2011,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,7889.0
+2012,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,8155.0
+2013,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5401.0
+2014,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5390.0
+2015,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,2851.0
+2016,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5393.0
+2017,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5181.0
+2018,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5814.0
+2019,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,5402.0
+2020,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,7130.0
+2021,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,7392.0
+2022,Nombre de cas d'accidents de la circulation,nb_accidents,Nombre,7507.0
+2010,Nombre de blessés,nb_blesses,Nombre,6241.0
+2011,Nombre de blessés,nb_blesses,Nombre,9376.0
+2012,Nombre de blessés,nb_blesses,Nombre,9589.0
+2013,Nombre de blessés,nb_blesses,Nombre,7636.0
+2014,Nombre de blessés,nb_blesses,Nombre,5565.0
+2015,Nombre de blessés,nb_blesses,Nombre,3871.0
+2016,Nombre de blessés,nb_blesses,Nombre,6846.0
+2017,Nombre de blessés,nb_blesses,Nombre,8624.0
+2018,Nombre de blessés,nb_blesses,Nombre,7951.0
+2019,Nombre de blessés,nb_blesses,Nombre,7520.0
+2020,Nombre de blessés,nb_blesses,Nombre,9514.0
+2021,Nombre de blessés,nb_blesses,Nombre,9376.0
+2022,Nombre de blessés,nb_blesses,Nombre,9918.0
+2010,Nombre de morts,nb_morts,Nombre,470.0
+2011,Nombre de morts,nb_morts,Nombre,739.0
+2012,Nombre de morts,nb_morts,Nombre,753.0
+2013,Nombre de morts,nb_morts,Nombre,640.0
+2014,Nombre de morts,nb_morts,Nombre,802.0
+2015,Nombre de morts,nb_morts,Nombre,473.0
+2016,Nombre de morts,nb_morts,Nombre,514.0
+2017,Nombre de morts,nb_morts,Nombre,580.0
+2018,Nombre de morts,nb_morts,Nombre,592.0
+2019,Nombre de morts,nb_morts,Nombre,580.0
+2020,Nombre de morts,nb_morts,Nombre,576.0
+2021,Nombre de morts,nb_morts,Nombre,680.0
+2022,Nombre de morts,nb_morts,Nombre,683.0
+1990,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,5316.0
+1991,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,5468.0
+1992,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,5609.0
+1993,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,3367.0
+1994,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,4237.0
+1995,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,7953.0
+1996,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,8172.0
+1997,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,9910.0
+1998,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,10066.0
+1999,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,10986.0
+2000,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,9341.0
+2001,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,10838.0
+2002,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,11921.0
+2003,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,16743.0
+2004,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,14214.0
+2005,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,13623.0
+2006,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,13475.0
+2007,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,13038.0
+2008,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,13406.0
+2009,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,8635.0
+2010,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,10740.0
+2011,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,13240.0
+2012,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,15530.0
+2013,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,16273.0
+2014,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,17834.0
+2015,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,20149.0
+2016,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,18779.0
+2017,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,19782.0
+2018,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,21283.0
+2019,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,24341.0
+2020,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,23890.0
+2021,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,28581.0
+2022,Evolution du parc automobile 4 roues et plus immatriculé,parc_4r,Nombre,26131.0
+2007,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,6931.0
+2008,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,7069.0
+2009,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,5488.0
+2010,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,5313.0
+2011,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,6225.0
+2012,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,6969.0
+2014,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,13362.0
+2015,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,8072.0
+2016,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,28451.0
+2017,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,19839.0
+2018,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,18854.0
+2019,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,21098.0
+2020,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,13073.0
+2021,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,19715.0
+2022,Nombre de permis de conduire délivrés aux examens de permis de conduire,permis_total,Nombre,24598.0
+2000,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,94.0
+2001,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,109.0
+2002,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,117.0
+2003,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,326.0
+2004,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,189.0
+2005,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,234.0
+2006,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,187.0
+2007,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,155.0
+2008,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,266.0
+2009,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,402.0
+2010,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,322.0
+2011,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,399.0
+2012,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,420.0
+2013,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,440.0
+2014,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,481.0
+2015,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,1123.0
+2016,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,909.0
+2017,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,972.0
+2018,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,1151.0
+2019,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,1266.0
+2020,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,2463.0
+2021,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,2485.0
+2022,Evolution des premières mise en circulation du parc automobile 4 roues et plus immatriculés,premieres_mises_circulation_4r,Nombre,2532.0
+2000,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2001,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2002,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2003,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2004,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2005,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2006,Réseau total (chemins de fer-km),reseau_fer_km,km,548.0
+2007,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2008,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2009,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2010,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2011,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2012,Réseau total (chemins de fer-km),reseau_fer_km,km,588.0
+2013,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2014,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2015,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2016,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2017,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2018,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2019,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2020,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2021,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2022,Réseau total (chemins de fer-km),reseau_fer_km,km,593.0
+2014,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,521617.0
+2015,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,677820.0
+2016,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1036111.0
+2017,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1194616.0
+2018,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1243133.0
+2019,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1441627.0
+2020,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1725014.0
+2021,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,1966787.0
+2022,Trafic de véhicules de transports de marchandises sur le réseau routier,trafic_marchandises,Nombre,2189310.0
+2014,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,4245433.0
+2015,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,5111742.0
+2016,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,5935981.0
+2017,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,6570066.0
+2018,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,7073335.0
+2019,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,7792092.0
+2020,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,6209565.0
+2021,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,8175245.0
+2022,Trafic de véhicules de transports de passagers sur le réseau routier,trafic_passagers,Nombre,9057696.0

@@ -1,0 +1,256 @@
+/* ================= Fonts ================= */
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0');
+
+html, body, [class*="css"] {
+    font-family: 'Segoe UI', 'Inter', system-ui, sans-serif;
+}
+
+/* ================= Hide Streamlit native chrome ================= */
+#MainMenu, footer { visibility: hidden; }
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"] { display: none !important; }
+[data-testid="stHeader"] { background-color: transparent; height: 0; }
+[data-testid="stToolbar"] { display: none; }
+
+.block-container {
+    padding: 1rem 2rem 1rem 2rem !important;
+    max-width: 100% !important;
+}
+
+/* ================= Sidebar ================= */
+[data-testid="stSidebar"] {
+    background-color: #ffffff;
+    border-right: 1px solid #e8ece9;
+    transition: width 0.25s ease, min-width 0.25s ease;
+}
+[data-testid="stSidebar"] [data-testid="stSidebarUserContent"] {
+    padding: 1rem 0.75rem !important;
+}
+
+.sidebar-logo {
+    padding: 0.25rem 0.5rem 1rem 0.5rem;
+    border-bottom: 1px solid #eef2ef;
+    margin-bottom: 1rem;
+}
+
+.sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    border-radius: 10px;
+    color: #1a3a2f !important;
+    text-decoration: none !important;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.15s ease, color 0.15s ease;
+    cursor: pointer;
+}
+.nav-item:hover { background-color: #f0f7f4; }
+.nav-item.active {
+    background-color: #d6f5e3;
+    color: #0b6b3a !important;
+    font-weight: 600;
+}
+.nav-icon {
+    font-size: 22px !important;
+    color: inherit;
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    flex-shrink: 0;
+}
+.nav-label {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ================= Topbar ================= */
+.topbar-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #0b3d2a;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    padding-top: 6px;
+}
+
+.topbar-icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    color: #0b3d2a;
+    text-decoration: none !important;
+    transition: background 0.15s ease;
+}
+.topbar-icon-btn:hover { background-color: #f0f7f4; }
+.topbar-icon-btn .material-symbols-outlined { font-size: 24px; }
+
+/* ================= Page header band ================= */
+.page-header {
+    background: linear-gradient(135deg, #f6fbf8 0%, #eef7f1 100%);
+    border: 1px solid #dfeee6;
+    border-radius: 14px;
+    padding: 1.25rem 1.75rem;
+    margin: 0.75rem 0 1.5rem 0;
+}
+.page-header-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #0b3d2a;
+    margin-bottom: 6px;
+    letter-spacing: 0.3px;
+}
+.page-header-desc {
+    font-size: 14px;
+    color: #4a5f56;
+    line-height: 1.5;
+}
+
+/* ================= Content placeholder ================= */
+.content-placeholder {
+    background-color: #fafcfb;
+    border: 1px dashed #cfe0d7;
+    border-radius: 12px;
+    padding: 3rem 2rem;
+    text-align: center;
+    color: #6b7f76;
+    font-size: 14px;
+    margin-bottom: 2rem;
+}
+
+/* ================= Footer ================= */
+.footer-hr {
+    border: none;
+    border-top: 1px solid #e8ece9;
+    margin: 2.5rem 0 1rem 0;
+}
+.footer-text {
+    font-size: 12px;
+    color: #3a4a44;
+    line-height: 1.5;
+}
+.footer-text strong { color: #0b3d2a; font-size: 12.5px; }
+
+/* ================= Material Symbols default ================= */
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    vertical-align: middle;
+}
+
+/* Slider période */
+.stSlider > div > div > div > div {
+    background: #1F3A5F !important;
+}
+.stSlider [data-baseweb="slider"] div[role="slider"] {
+    background-color: #1F3A5F !important;
+    border-color: #1F3A5F !important;
+}
+
+/* Radio horizontal compact */
+div[role="radiogroup"] {
+    gap: 6px;
+    margin-bottom: 4px;
+}
+div[role="radiogroup"] label {
+    background: #f0f4f8;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    margin-right: 4px;
+}
+div[role="radiogroup"] label[data-checked="true"] {
+    background: #1F3A5F;
+    color: white;
+}
+
+/* ============ Animation fade-in douce ============ */
+@keyframes aterFadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+.main .block-container {
+    animation: aterFadeIn 0.28s ease-out;
+}
+
+/* Masquer l'indicateur "Running..." en haut à droite */
+[data-testid="stStatusWidget"] { display: none !important; }
+
+/* ============ Boutons de navigation dans la sidebar ============ */
+[data-testid="stSidebar"] .stButton {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+[data-testid="stSidebar"] .stButton > button {
+    width: 100%;
+    justify-content: flex-start;
+    background: transparent;
+    border: none;
+    color: #1a3a2f;
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    gap: 12px;
+    box-shadow: none !important;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+[data-testid="stSidebar"] .stButton > button:hover {
+    background-color: #f0f7f4;
+    color: #0b6b3a;
+}
+[data-testid="stSidebar"] .stButton > button:focus {
+    box-shadow: none !important;
+    outline: none;
+}
+[data-testid="stSidebar"] .stButton > button[kind="primary"],
+[data-testid="stSidebar"] .stButton > button[data-testid="stBaseButton-primary"] {
+    background-color: #d6f5e3 !important;
+    color: #0b6b3a !important;
+    font-weight: 600;
+}
+[data-testid="stSidebar"] .stButton > button[kind="primary"]:hover {
+    background-color: #c6efd8 !important;
+}
+
+/* ============ Boutons topbar (icônes uniquement) ============ */
+[data-testid="stMainBlockContainer"] > div:first-child .stButton > button {
+    background: transparent;
+    border: none;
+    color: #0b3d2a;
+    padding: 6px;
+    border-radius: 8px;
+    box-shadow: none !important;
+    transition: background-color 0.15s ease;
+}
+[data-testid="stMainBlockContainer"] > div:first-child .stButton > button:hover {
+    background-color: #f0f7f4;
+}
+
+/* ============ Boutons topbar (icônes uniquement, compacts) ============ */
+[data-testid="stMainBlockContainer"] > div:first-child .stButton > button {
+    background: transparent !important;
+    border: none !important;
+    color: #0b3d2a !important;
+    padding: 6px !important;
+    border-radius: 8px;
+    box-shadow: none !important;
+    min-width: 38px;
+    min-height: 38px;
+    transition: background-color 0.15s ease;
+}
+[data-testid="stMainBlockContainer"] > div:first-child .stButton > button:hover {
+    background-color: #f0f7f4 !important;
+}
+[data-testid="stMainBlockContainer"] > div:first-child .stButton > button p {
+    display: none;
+}
