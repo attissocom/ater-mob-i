@@ -6,14 +6,15 @@ if sys.platform == "win32":
 from pathlib import Path
 import streamlit as st
 
+# Chemins définis avant set_page_config
+BASE_DIR = Path(__file__).parent
+
 st.set_page_config(
-    page_title="ATER-MOB I — Mobilité & Sécurité Routière",
-    page_icon="🛣️",
+    page_title="Dashboard Projet ATER-MOB I",
+    page_icon=str(BASE_DIR / "img" / "logo-lion.png"),
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
-BASE_DIR = Path(__file__).parent
 
 # ---------- Session state : source de vérité ----------
 if "page" not in st.session_state:
