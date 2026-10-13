@@ -50,27 +50,30 @@ Ce projet construit un **tableau de bord interactif** qui mesure l'évolution de
 ---
 
 ## Structure du projet
+
+```text
 ater-mob-i/
-├── app.py # Point d'entrée Streamlit
-├── components/ # Sidebar, topbar, footer, page header
-├── views/ # 1 fichier par onglet (7 onglets)
-├── src/ # Pipeline de traitement
-│ ├── config.py # Chemins, seuils, règles métier
-│ ├── clean_temporal.py # Nettoyage des séries temporelles
-│ ├── geo_normalize.py # Normalisation des noms géographiques
-│ ├── geo_crosswalk.py # Matching hiérarchique région → commune
-│ ├── indicators.py # Calcul des KPI nationaux et régionaux
-│ └── dashboard_data.py # Couche d'accès aux données (cache)
+├── app.py                  # Point d'entrée Streamlit
+├── components/             # Sidebar, topbar, footer, page header
+├── views/                  # 1 fichier par onglet (7 onglets)
+├── src/                    # Pipeline de traitement
+│   ├── config.py           # Chemins, seuils, règles métier
+│   ├── clean_temporal.py   # Nettoyage des séries temporelles
+│   ├── geo_normalize.py    # Normalisation des noms géographiques
+│   ├── geo_crosswalk.py    # Matching hiérarchique région → commune
+│   ├── indicators.py       # Calcul des KPI nationaux et régionaux
+│   └── dashboard_data.py   # Couche d'accès aux données (cache)
 ├── data/
-│ ├── raw/ # Données brutes (8 sources)
-│ ├── processed/ # KPI et tables enrichies
-│ └── mappings/ # Crosswalk géographique
-├── styles/ # CSS personnalisé
+│   ├── raw/                # Données brutes (8 sources)
+│   ├── processed/          # KPI et tables enrichies
+│   └── mappings/           # Crosswalk géographique
+├── styles/                 # CSS personnalisé
 └── requirements.txt
+```
 
 ---
 
-##  Lancement en local
+## Lancement en local
 
 ```bash
 # 1. Cloner le dépôt
@@ -87,17 +90,24 @@ pip install -r requirements.txt
 
 # 4. Lancer le dashboard
 streamlit run app.py
- Onglets du dashboard
-Accueil — Chiffres clés et tendances structurantes
+```
 
-Mobilité — Immatriculations et permis par catégorie
+---
 
-Sécurité routière — Accidents, blessés, morts (analyse nationale)
+## Onglets du dashboard
 
-Infrastructures & Réseau — État du réseau + routes classées + cartes
+| # | Onglet | Contenu |
+|---|---|---|
+| 1 | **Accueil** | Chiffres clés et tendances structurantes |
+| 2 | **Mobilité** | Immatriculations et permis par catégorie |
+| 3 | **Sécurité routière** | Accidents, blessés, morts (analyse nationale) |
+| 4 | **Infrastructures & Réseau** | État du réseau, routes classées et cartes |
+| 5 | **Auto-écoles** | Maillage territorial, densité et cartographie |
+| 6 | **Population & territoire** | Démographie et densités régionales |
+| 7 | **Recommandations** | 4 leviers stratégiques priorisés |
 
-Auto-écoles — Maillage territorial, densité et cartographie
+---
 
-Population & territoire — Démographie et densités régionales
+## Auteur
 
-Recommandations — 4 leviers stratégiques priorisés
+**Kossivi Moïse ATTISSO** — [GitHub : attissocom](https://github.com/attissocom)
