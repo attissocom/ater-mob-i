@@ -184,42 +184,72 @@ div[role="radiogroup"] label[data-checked="true"] {
 /* Masquer l'indicateur "Running..." en haut à droite */
 [data-testid="stStatusWidget"] { display: none !important; }
 
-/* ============ Boutons de navigation dans la sidebar ============ */
-[data-testid="stSidebar"] .stButton {
-    margin: 0 !important;
-    padding: 0 !important;
-}
+/* ============ Boutons de navigation sidebar - alignement gauche ============ */
 [data-testid="stSidebar"] .stButton > button {
-    width: 100%;
-    justify-content: flex-start;
+    width: 100% !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+    padding: 10px 14px !important;
     background: transparent;
     border: none;
     color: #1a3a2f;
-    padding: 10px 14px;
     border-radius: 10px;
     font-size: 14px;
     font-weight: 500;
-    text-align: left;
-    gap: 12px;
     box-shadow: none !important;
     transition: background-color 0.15s ease, color 0.15s ease;
 }
+
+/* Conteneur interne du bouton (icône + label) */
+[data-testid="stSidebar"] .stButton > button > div,
+[data-testid="stSidebar"] .stButton > button > div > div,
+[data-testid="stSidebar"] .stButton > button [data-testid="stMarkdownContainer"] {
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    text-align: left !important;
+    width: 100% !important;
+    gap: 12px !important;
+    margin: 0 !important;
+}
+
+/* Paragraphe du label */
+[data-testid="stSidebar"] .stButton > button p {
+    margin: 0 !important;
+    text-align: left !important;
+    flex: 1 !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Icône Material */
+[data-testid="stSidebar"] .stButton > button [data-testid="stIconMaterial"],
+[data-testid="stSidebar"] .stButton > button .material-symbols-outlined {
+    flex-shrink: 0 !important;
+}
+
+/* État hover */
 [data-testid="stSidebar"] .stButton > button:hover {
-    background-color: #f0f7f4;
-    color: #0b6b3a;
+    background-color: #f0f7f4 !important;
+    color: #0b6b3a !important;
 }
-[data-testid="stSidebar"] .stButton > button:focus {
-    box-shadow: none !important;
-    outline: none;
-}
+
+/* État actif (primary) */
 [data-testid="stSidebar"] .stButton > button[kind="primary"],
 [data-testid="stSidebar"] .stButton > button[data-testid="stBaseButton-primary"] {
     background-color: #d6f5e3 !important;
     color: #0b6b3a !important;
-    font-weight: 600;
+    font-weight: 600 !important;
 }
 [data-testid="stSidebar"] .stButton > button[kind="primary"]:hover {
     background-color: #c6efd8 !important;
+}
+
+/* Masquer le focus outline */
+[data-testid="stSidebar"] .stButton > button:focus {
+    box-shadow: none !important;
+    outline: none !important;
 }
 
 /* ============ Boutons topbar (icônes uniquement) ============ */
